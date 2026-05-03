@@ -1,7 +1,7 @@
 Project title: ETF Concentration Analyzer
 
 Project description:
-If you invest mostly in ETFs, do you know how much of your portfolio is concentrated in individual stocks?
+If you invest mostly in ETF funds, do you know how much of your portfolio is concentrated in individual stocks?
 
 This project analyzes ETF holdings files, combines the holdings across multiple ETFs, and calculates your top 20 most material stock exposures based on the dollar amount invested in each ETF.
 
