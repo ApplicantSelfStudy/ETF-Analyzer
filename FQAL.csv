@@ -1,0 +1,131 @@
+﻿Symbol,Company,Weight,ETF
+NVDA,NVIDIA Corp,7.56,FQAL
+AAPL,Apple Inc,6.71,FQAL
+GOOGL,Alphabet Inc Class A,5.1,FQAL
+MSFT,Microsoft Corp,5.06,FQAL
+AVGO,Broadcom Inc,3.02,FQAL
+META,Meta Platforms Inc Class A,2.21,FQAL
+JPM,JPMorgan Chase & Co,1.87,FQAL
+LLY,Eli Lilly and Co,1.6,FQAL
+JNJ,Johnson & Johnson,1.47,FQAL
+XOM,Exxon Mobil Corp,1.38,FQAL
+V,Visa Inc Class A,1.38,FQAL
+HD,The Home Depot Inc,1.3,FQAL
+MCD,McDonald's Corp,1.22,FQAL
+PLTR,Palantir Technologies Inc Ordinary Shares - Class A,1.21,FQAL
+MA,Mastercard Inc Class A,1.21,FQAL
+AMAT,Applied Materials Inc,1.17,FQAL
+ABBV,AbbVie Inc,1.12,FQAL
+CSCO,Cisco Systems Inc,1.1,FQAL
+LRCX,Lam Research Corp,1.08,FQAL
+BKNG,Booking Holdings Inc,1.04,FQAL
+KLAC,KLA Corp,1.03,FQAL
+HLT,Hilton Worldwide Holdings Inc,1,FQAL
+ABNB,Airbnb Inc Ordinary Shares - Class A,1,FQAL
+MRK,Merck & Co Inc,0.99,FQAL
+ORLY,O'Reilly Automotive Inc,0.98,FQAL
+CAT,Caterpillar Inc,0.96,FQAL
+YUM,Yum Brands Inc,0.94,FQAL
+NFLX,Netflix Inc,0.91,FQAL
+AZO,AutoZone Inc,0.91,FQAL
+,Fidelity Securities Lending Cash Central Fund,0.89,FQAL
+GE,GE Aerospace,0.86,FQAL
+,Net Other Assets,0.86,FQAL
+CVX,Chevron Corp,0.85,FQAL
+PG,Procter & Gamble Co,0.85,FQAL
+DPZ,Domino's Pizza Inc,0.82,FQAL
+KO,Coca-Cola Co,0.8,FQAL
+WSM,Williams-Sonoma Inc,0.79,FQAL
+CME,CME Group Inc Class A,0.78,FQAL
+AXP,American Express Co,0.78,FQAL
+AMGN,Amgen Inc,0.78,FQAL
+SPGI,S&P Global Inc,0.77,FQAL
+QCOM,Qualcomm Inc,0.77,FQAL
+GILD,Gilead Sciences Inc,0.75,FQAL
+TMO,Thermo Fisher Scientific Inc,0.73,FQAL
+STX,Seagate Technology Holdings PLC,0.73,FQAL
+ADBE,Adobe Inc,0.72,FQAL
+BMY,Bristol-Myers Squibb Co,0.72,FQAL
+FTNT,Fortinet Inc,0.72,FQAL
+PM,Philip Morris International Inc,0.71,FQAL
+MCO,Moodys Corp,0.68,FQAL
+PNC,PNC Financial Services Group Inc,0.66,FQAL
+UNP,Union Pacific Corp,0.63,FQAL
+MSCI,MSCI Inc,0.63,FQAL
+LMT,Lockheed Martin Corp,0.61,FQAL
+CFR,Cullen/Frost Bankers Inc,0.59,FQAL
+FIX,Comfort Systems USA Inc,0.58,FQAL
+VZ,Verizon Communications Inc,0.57,FQAL
+EWBC,East West Bancorp Inc,0.57,FQAL
+CBSH,Commerce Bancshares Inc,0.56,FQAL
+T,AT&T Inc,0.56,FQAL
+AMP,Ameriprise Financial Inc,0.56,FQAL
+PH,Parker Hannifin Corp,0.56,FQAL
+ERIE,Erie Indemnity Co Class A,0.54,FQAL
+ZTS,Zoetis Inc Class A,0.54,FQAL
+FICO,Fair Isaac Corp,0.53,FQAL
+LIN,Linde PLC,0.53,FQAL
+TT,Trane Technologies PLC Class A,0.53,FQAL
+AX,Axos Financial Inc,0.52,FQAL
+KNSL,Kinsale Capital Group Inc,0.51,FQAL
+IDXX,IDEXX Laboratories Inc,0.5,FQAL
+MO,Altria Group Inc,0.5,FQAL
+ADP,Automatic Data Processing Inc,0.49,FQAL
+MTD,Mettler-Toledo International Inc,0.49,FQAL
+NEE,NextEra Energy Inc,0.49,FQAL
+COP,ConocoPhillips,0.49,FQAL
+FAST,Fastenal Co,0.48,FQAL
+ITW,Illinois Tool Works Inc,0.48,FQAL
+TDG,TransDigm Group Inc,0.48,FQAL
+GWW,W.W. Grainger Inc,0.45,FQAL
+VRSK,Verisk Analytics Inc,0.45,FQAL
+CTAS,Cintas Corp,0.45,FQAL
+ODFL,Old Dominion Freight Line Inc Ordinary Shares,0.44,FQAL
+PAYX,Paychex Inc,0.43,FQAL
+CL,Colgate-Palmolive Co,0.4,FQAL
+OTIS,Otis Worldwide Corp Ordinary Shares,0.39,FQAL
+EXPD,Expeditors International of Washington Inc,0.38,FQAL
+CPRT,Copart Inc,0.38,FQAL
+CMCSA,Comcast Corp Class A,0.37,FQAL
+MNST,Monster Beverage Corp,0.37,FQAL
+HSY,The Hershey Co,0.37,FQAL
+EOG,EOG Resources Inc,0.36,FQAL
+LNG,Cheniere Energy Inc,0.35,FQAL
+KMB,Kimberly-Clark Corp,0.35,FQAL
+SO,Southern Co,0.35,FQAL
+CART,Maplebear Inc,0.34,FQAL
+WELL,Welltower Inc,0.34,FQAL
+NEM,Newmont Corp,0.33,FQAL
+CEG,Constellation Energy Corp,0.33,FQAL
+APA,APA Corp,0.31,FQAL
+PLD,Prologis Inc,0.31,FQAL
+TPL,Texas Pacific Land Corp,0.3,FQAL
+CLX,Clorox Co,0.3,FQAL
+FCX,Freeport-McMoRan Inc,0.28,FQAL
+VST,Vistra Corp,0.26,FQAL
+SHW,Sherwin-Williams Co,0.25,FQAL
+AM,Antero Midstream Corp,0.24,FQAL
+ECL,Ecolab Inc,0.24,FQAL
+AMT,American Tower Corp,0.24,FQAL
+CF,CF Industries Holdings Inc,0.23,FQAL
+WEC,WEC Energy Group Inc,0.23,FQAL
+NRG,NRG Energy Inc,0.22,FQAL
+,Fidelity Cash Central Fund,0.22,FQAL
+AU,Anglogold Ashanti PLC,0.21,FQAL
+NFG,National Fuel Gas Co,0.2,FQAL
+O,Realty Income Corp,0.2,FQAL
+SPG,Simon Property Group Inc,0.2,FQAL
+VMC,Vulcan Materials Co,0.19,FQAL
+TLN,Talen Energy Corp Ordinary Shares New,0.19,FQAL
+UGI,UGI Corp,0.17,FQAL
+PSA,Public Storage,0.17,FQAL
+CCI,Crown Castle Inc,0.16,FQAL
+VICI,VICI Properties Inc Ordinary Shares,0.15,FQAL
+NEU,NewMarket Corp,0.14,FQAL
+AVB,AvalonBay Communities Inc,0.14,FQAL
+SBAC,SBA Communications Corp Class A,0.13,FQAL
+EQR,Equity Residential,0.13,FQAL
+,Us Dollar,0.02,FQAL
+,United States Treasury Bills 0%,0.02,FQAL
+,Cash†,0.01,FQAL
+,Sp500 Mic Emin Futjun26 Hwam6,0.01,FQAL

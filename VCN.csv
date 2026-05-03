@@ -1,0 +1,222 @@
+﻿Ticker,Holding name,% of market value,Sector,Region,Market value,Shares,ETF
+RY,Royal Bank of Canada,6.8099%,Financials,CA,"$987,197,113.92","4,389,884",VCN
+TD,Toronto-Dominion Bank/The,4.7223%,Financials,CA,"$684,574,334.08","5,269,199",VCN
+SHOP,Shopify Inc,4.3731%,Technology,CA,"$633,950,893.80","3,840,730",VCN
+ENB,Enbridge Inc,3.5563%,Energy,CA,"$515,543,858.45","6,836,545",VCN
+AEM,Agnico Eagle Mines Ltd,3.0457%,Basic Materials,CA,"$441,520,508.88","1,563,624",VCN
+CNQ,Canadian Natural Resources Ltd,2.9986%,Energy,CA,"$434,699,352.36","6,405,826",VCN
+BMO,Bank of Montreal,2.8885%,Financials,CA,"$418,731,041.76","2,222,328",VCN
+CM,Canadian Imperial Bank of Commerce,2.6783%,Financials,CA,"$388,258,780.16","2,944,924",VCN
+BNS,Bank of Nova Scotia/The,2.6036%,Financials,CA,"$377,427,491.54","3,912,382",VCN
+BN,Brookfield Corp,2.5798%,Financials,CA,"$373,976,618.40","6,634,320",VCN
+SU,Suncor Energy Inc,2.3949%,Energy,CA,"$347,184,645.36","3,773,336",VCN
+CP,Canadian Pacific Kansas City Ltd,2.1361%,Industrials,CA,"$309,657,679.53","2,828,699",VCN
+ABX,Barrick Mining Corp,2.0469%,Basic Materials,CA,"$296,731,474.35","5,219,551",VCN
+TRP,TC Energy Corp,1.9562%,Energy,CA,"$283,576,674.46","3,255,386",VCN
+WPM,Wheaton Precious Metals Corp,1.7919%,Basic Materials,CA,"$259,761,282.00","1,422,570",VCN
+MFC,Manulife Financial Corp,1.7406%,Financials,CA,"$252,320,603.60","5,265,455",VCN
+CNR,Canadian National Railway Co,1.6871%,Industrials,CA,"$244,571,055.66","1,708,137",VCN
+NA,National Bank of Canada,1.5251%,Financials,CA,"$221,084,681.80","1,228,180",VCN
+FNV,Franco-Nevada Corp,1.4247%,Basic Materials,CA,"$206,532,220.00","599,600",VCN
+CCO,Cameco Corp,1.4195%,Energy,CA,"$205,773,930.32","1,360,219",VCN
+ATD,Alimentation Couche-Tard Inc,1.278%,Consumer Discretionary,CA,"$185,272,741.10","2,349,686",VCN
+WCN,Waste Connections Inc,1.2508%,Utilities,CA,"$181,315,278.18","802,209",VCN
+K,Kinross Gold Corp,1.1129%,Basic Materials,CA,"$161,327,815.63","3,793,271",VCN
+NTR,Nutrien Ltd,1.1079%,Basic Materials,CA,"$160,605,444.30","1,529,430",VCN
+FFH,Fairfax Financial Holdings Ltd,1.09%,Financials,CA,"$158,017,382.80","66,665",VCN
+CVE,Cenovus Energy Inc,1.0786%,Energy,CA,"$156,356,753.80","4,235,015",VCN
+SLF,Sun Life Financial Inc,1.0517%,Financials,CA,"$152,466,659.10","1,749,474",VCN
+CSU,Constellation Software Inc/Canada,1.0448%,Technology,CA,"$151,454,661.79","62,021",VCN
+DOL,Dollarama Inc,0.9783%,Consumer Discretionary,CA,"$141,826,264.65","830,705",VCN
+CLS,Celestica Inc,0.9727%,Technology,CA,"$141,002,392.30","359,315",VCN
+IFC,Intact Financial Corp,0.9714%,Financials,CA,"$140,813,400.48","558,606",VCN
+FTS,Fortis Inc/Canada,0.8493%,Utilities,CA,"$123,116,080.23","1,586,343",VCN
+PPL,Pembina Pipeline Corp,0.7822%,Energy,CA,"$113,387,193.92","1,820,896",VCN
+POW,Power Corp of Canada,0.7727%,Financials,CA,"$112,011,544.11","1,672,563",VCN
+L,Loblaw Cos Ltd,0.7644%,Consumer Staples,CA,"$110,810,721.84","1,747,252",VCN
+QSR,Restaurant Brands International Inc,0.7594%,Consumer Discretionary,CA,"$110,081,771.32","1,069,378",VCN
+TECK/B,Teck Resources Ltd,0.7496%,Basic Materials,CA,"$108,668,326.90","1,507,189",VCN
+BCE,BCE Inc,0.7091%,Telecommunications,CA,"$102,793,789.80","2,928,598",VCN
+PAAS,Pan American Silver Corp,0.6828%,Basic Materials,CA,"$98,979,769.40","1,300,654",VCN
+WSP,WSP Global Inc,0.6297%,Industrials,CA,"$91,281,379.50","421,623",VCN
+T,TELUS Corp,0.60%,Telecommunications,CA,"$86,973,701.88","4,864,301",VCN
+AGI,Alamos Gold Inc,0.5581%,Basic Materials,CA,"$80,909,787.24","1,307,316",VCN
+RBA,RB Global Inc,0.5348%,Consumer Discretionary,CA,"$77,523,483.72","581,092",VCN
+TOU,Tourmaline Oil Corp,0.5283%,Energy,CA,"$76,585,642.40","1,150,280",VCN
+LUN,Lundin Mining Corp,0.5135%,Basic Materials,CA,"$74,434,541.14","2,145,706",VCN
+BAM,Brookfield Asset Management Ltd,0.5114%,Financials,CA,"$74,137,182.85","1,198,661",VCN
+IMO,Imperial Oil Ltd,0.5104%,Energy,CA,"$73,984,001.77","406,037",VCN
+FM,First Quantum Minerals Ltd,0.4896%,Basic Materials,CA,"$70,972,383.16","2,133,866",VCN
+EMA,Emera Inc,0.4712%,Utilities,CA,"$68,304,394.75","947,225",VCN
+BBD/B,Bombardier Inc,0.4666%,Industrials,CA,"$67,640,000.74","274,937",VCN
+MG,Magna International Inc,0.4473%,Consumer Discretionary,CA,"$64,837,044.09","834,561",VCN
+GIB/A,CGI Inc,0.4188%,Technology,CA,"$60,715,103.40","597,002",VCN
+WCP,Whitecap Resources Inc,0.4097%,Energy,CA,"$59,394,842.70","3,783,111",VCN
+MRU,Metro Inc/CN,0.4002%,Consumer Staples,CA,"$58,013,542.52","609,514",VCN
+H,Hydro One Ltd,0.3947%,Utilities,CA,"$57,215,201.85","995,913",VCN
+GWO,Great-West Lifeco Inc,0.3745%,Financials,CA,"$54,284,739.05","833,227",VCN
+TRI,Thomson Reuters Corp,0.3675%,Technology,CA,"$53,281,009.32","424,347",VCN
+ARX,ARC Resources Ltd,0.3597%,Energy,CA,"$52,139,152.65","1,801,007",VCN
+TIH,Toromont Industries Ltd,0.3418%,Industrials,CA,"$49,543,827.84","254,384",VCN
+GFL,GFL Environmental Inc,0.3327%,Utilities,CA,"$48,234,710.09","831,203",VCN
+WN,George Weston Ltd,0.3297%,Consumer Staples,CA,"$47,797,593.48","486,341",VCN
+IMG,IAMGOLD Corp,0.3231%,Basic Materials,CA,"$46,840,892.64","1,790,554",VCN
+ALA,AltaGas Ltd,0.3228%,Utilities,CA,"$46,790,582.25","969,753",VCN
+EQX,Equinox Gold Corp,0.3211%,Basic Materials,CA,"$46,548,590.27","2,317,003",VCN
+ATRL,AtkinsRealis Group Inc,0.3209%,Industrials,CA,"$46,522,458.00","519,804",VCN
+AG,First Majestic Silver Corp,0.3105%,Basic Materials,CA,"$45,013,439.10","1,509,505",VCN
+IAG,iA Financial Corp Inc,0.3078%,Financials,CA,"$44,626,780.98","289,071",VCN
+GIL,Gildan Activewear Inc,0.3029%,Consumer Discretionary,CA,"$43,915,341.43","566,869",VCN
+STN,Stantec Inc,0.2961%,Industrials,CA,"$42,924,281.54","356,929",VCN
+X,TMX Group Ltd,0.2938%,Financials,CA,"$42,595,271.08","863,476",VCN
+KEY,Keyera Corp,0.2661%,Energy,CA,"$38,571,546.10","716,810",VCN
+EFN,Element Fleet Management Corp,0.2628%,Industrials,CA,"$38,104,800.51","1,263,003",VCN
+TFII,TFI International Inc,0.2554%,Industrials,CA,"$37,020,827.22","244,491",VCN
+CAE,CAE Inc,0.2495%,Industrials,CA,"$36,165,923.54","998,507",VCN
+FTT,Finning International Inc,0.2437%,Industrials,CA,"$35,320,603.84","410,323",VCN
+HBM,Hudbay Minerals Inc,0.2386%,Basic Materials,CA,"$34,593,302.37","1,187,549",VCN
+ATZ,Aritzia Inc,0.2341%,Consumer Discretionary,CA,"$33,934,874.16","298,933",VCN
+DPM,DPM Metals Inc,0.2279%,Basic Materials,CA,"$33,044,063.12","674,644",VCN
+LUG,Lundin Gold Inc,0.2266%,Basic Materials,CA,"$32,845,218.67","308,957",VCN
+SAP,Saputo Inc,0.226%,Consumer Staples,CA,"$32,767,753.50","753,975",VCN
+CPX,Capital Power Corp,0.2214%,Utilities,CA,"$32,089,747.80","487,020",VCN
+OR,Osisko Gold Royalties Ltd,0.2157%,Basic Materials,CA,"$31,263,688.55","590,215",VCN
+OGC,OceanaGold Corp,0.2132%,Basic Materials,CA,"$30,908,361.30","704,705",VCN
+NXE,NexGen Energy Ltd,0.2121%,Basic Materials,CA,"$30,743,956.20","1,904,830",VCN
+ELD,Eldorado Gold Corp,0.2075%,Basic Materials,CA,"$30,083,253.04","629,752",VCN
+SOBO,South Bow Corp,0.2071%,Energy,CA,"$30,024,520.24","648,758",VCN
+IVN,Ivanhoe Mines Ltd,0.2013%,Basic Materials,CA,"$29,186,632.69","2,454,721",VCN
+CTC/A,Canadian Tire Corp Ltd,0.1989%,Consumer Discretionary,CA,"$28,828,092.60","154,095",VCN
+QBR/B,Quebecor Inc,0.1939%,Telecommunications,CA,"$28,113,185.10","475,930",VCN
+GMIN,G Mining Ventures Corp,0.1852%,Basic Materials,CA,"$26,850,560.62","549,991",VCN
+DSG,Descartes Systems Group Inc/The,0.1838%,Technology,CA,"$26,644,333.84","267,406",VCN
+SSRM,SSR Mining Inc,0.1781%,Basic Materials,CA,"$25,812,692.10","631,735",VCN
+BTO,B2Gold Corp,0.1748%,Basic Materials,CA,"$25,340,886.88","4,009,634",VCN
+FSV,FirstService Corp,0.1708%,Real Estate,CA,"$24,766,109.04","127,977",VCN
+OTEX,Open Text Corp,0.1642%,Technology,CA,"$23,806,791.00","767,961",VCN
+BEPC,Brookfield Renewable Corp,0.1619%,Utilities,CA,"$23,470,302.24","423,346",VCN
+PSK,PrairieSky Royalty Ltd,0.1613%,Energy,CA,"$23,384,284.00","726,220",VCN
+CS,Capstone Copper Corp,0.1472%,Basic Materials,CA,"$21,340,394.44","2,034,356",VCN
+OLA,Orla Mining Ltd,0.1453%,Basic Materials,CA,"$21,058,648.23","941,379",VCN
+BIPC,Brookfield Infrastructure Corp,0.1418%,Utilities,CA,"$20,550,369.59","373,847",VCN
+AQN,Algonquin Power & Utilities Corp,0.1416%,Utilities,CA,"$20,520,028.08","2,408,454",VCN
+CIGI,Colliers International Group Inc,0.1401%,Real Estate,CA,"$20,308,784.04","136,548",VCN
+CSH-U,Chartwell Retirement Residences,0.1372%,Real Estate,CA,"$19,885,078.88","988,324",VCN
+DFY,Definity Financial Corp,0.1366%,Financials,CA,"$19,806,533.64","302,436",VCN
+NPI,Northland Power Inc,0.1313%,Utilities,CA,"$19,039,488.30","815,745",VCN
+TXG,Torex Gold Resources Inc,0.1285%,Basic Materials,CA,"$18,623,831.85","291,681",VCN
+EFR,Energy Fuels Inc/Canada,0.1283%,Basic Materials,CA,"$18,595,106.34","728,934",VCN
+ONEX,Onex Corp,0.126%,Financials,CA,"$18,263,143.44","179,897",VCN
+KNT,K92 Mining Inc,0.1222%,Basic Materials,CA,"$17,720,674.38","750,558",VCN
+REI-U,RioCan Real Estate Investment Trust,0.1204%,Real Estate,CA,"$17,449,094.43","918,857",VCN
+MX,Methanex Corp,0.1201%,Basic Materials,CA,"$17,416,349.46","210,114",VCN
+EIF,Exchange Income Corp,0.1193%,Consumer Discretionary,CA,"$17,286,984.00","165,600",VCN
+TVE,Tamarack Valley Energy Ltd,0.1183%,Energy,CA,"$17,147,144.00","1,491,056",VCN
+CAR-U,Canadian Apartment Properties REIT,0.1182%,Real Estate,CA,"$17,137,303.55","482,605",VCN
+AC,Air Canada,0.1161%,Consumer Discretionary,CA,"$16,833,751.80","929,015",VCN
+PEY,Peyto Exploration & Development Corp,0.1151%,Energy,CA,"$16,689,444.12","614,034",VCN
+ATH,Athabasca Oil Corp,0.1148%,Energy,CA,"$16,647,300.00","1,479,760",VCN
+IGM,IGM Financial Inc,0.1141%,Financials,CA,"$16,537,191.40","249,505",VCN
+SJ,Stella-Jones Inc,0.1105%,Basic Materials,CA,"$16,019,290.82","171,623",VCN
+ACO/X,Atco Ltd/Canada,0.1085%,Utilities,CA,"$15,723,274.71","230,919",VCN
+ARIS,Aris Mining Corp,0.108%,Basic Materials,CA,"$15,662,278.80","606,360",VCN
+BYD,BOYD GROUP INC,0.107%,Consumer Discretionary,CA,"$15,505,027.72","87,308",VCN
+CG,Centerra Gold Inc,0.1068%,Basic Materials,CA,"$15,481,252.92","625,758",VCN
+GRT-U,Granite Real Estate Investment Trust,0.1067%,Real Estate,CA,"$15,472,551.80","189,151",VCN
+TA,TransAlta Corp,0.1066%,Utilities,CA,"$15,449,727.61","844,709",VCN
+GEI,Gibson Energy Inc,0.1046%,Energy,CA,"$15,166,183.20","510,990",VCN
+WFG,West Fraser Timber Co Ltd,0.103%,Financials,CA,"$14,935,930.24","164,384",VCN
+SES,Secure Energy Services Inc,0.1013%,Energy,CA,"$14,682,443.23","672,581",VCN
+DSV,Discovery Silver Corp,0.0979%,Basic Materials,CA,"$14,196,541.20","1,587,980",VCN
+DML,Denison Mines Corp,0.0947%,Basic Materials,CA,"$13,725,992.61","2,784,177",VCN
+FCR-U,First Capital Real Estate Investment Trust,0.0945%,Real Estate,CA,"$13,706,980.04","664,742",VCN
+MDA,MDA Space Ltd,0.0932%,Industrials,CA,"$13,514,328.56","383,494",VCN
+BTE,Baytex Energy Corp,0.0927%,Energy,CA,"$13,434,901.44","2,159,952",VCN
+SII,Sprott Inc,0.0924%,Financials,CA,"$13,387,791.76","67,438",VCN
+CHP-U,Choice Properties Real Estate Investment Trust,0.092%,Real Estate,CA,"$13,337,195.52","868,307",VCN
+FVI,Fortuna Mining Corp,0.091%,Basic Materials,CA,"$13,189,186.95","953,665",VCN
+SKE,Skeena Resources Ltd,0.0872%,Basic Materials,CA,"$12,642,323.07","305,149",VCN
+AAUC,New Issuer: BB Company ID:71235362,0.0847%,Basic Materials,CA,"$12,271,003.36","284,578",VCN
+KXS,Kinaxis Inc,0.0845%,Technology,CA,"$12,251,584.80","87,262",VCN
+PBH,Premium Brands Holdings Corp,0.0838%,Consumer Staples,CA,"$12,152,365.45","147,965",VCN
+EDR,Endeavour Silver Corp,0.0826%,Basic Materials,CA,"$11,976,048.92","922,654",VCN
+TPZ,Topaz Energy Corp,0.0823%,Energy,CA,"$11,929,028.76","385,803",VCN
+MAU,Montage Gold Corp,0.0821%,Basic Materials,CA,"$11,905,632.19","752,093",VCN
+BLX,Boralex Inc,0.0811%,Utilities,CA,"$11,748,909.12","320,658",VCN
+CEU,CES Energy Solutions Corp,0.081%,Energy,CA,"$11,744,328.12","637,932",VCN
+DOO,BRP Inc,0.0808%,Consumer Discretionary,CA,"$11,707,600.00","117,076",VCN
+WDO,Wesdome Gold Mines Ltd,0.0807%,Basic Materials,CA,"$11,698,099.92","470,938",VCN
+AII,Almonty Industries Inc,0.0769%,Basic Materials,CA,"$11,145,601.28","550,672",VCN
+EFX,Enerflex Ltd,0.0766%,Energy,CA,"$11,108,110.20","381,722",VCN
+ERO,ERO Copper Corp,0.0765%,Basic Materials,CA,"$11,081,928.22","298,946",VCN
+SEA,Seabridge Gold Inc,0.0764%,Basic Materials,CA,"$11,081,583.90","280,902",VCN
+DIR-U,Dream Industrial Real Estate Investment Trust,0.0764%,Real Estate,CA,"$11,068,082.24","894,752",VCN
+NG,Novagold Resources Inc,0.0752%,Basic Materials,CA,"$10,897,391.12","869,704",VCN
+SRU-U,SmartCentres Real Estate Investment Trust,0.0744%,Real Estate,CA,"$10,788,933.60","404,990",VCN
+NGEX,NGEx Minerals Ltd,0.0737%,Basic Materials,CA,"$10,679,180.60","422,102",VCN
+PPTA,Perpetua Resources Corp,0.0729%,Basic Materials,CA,"$10,564,008.00","269,490",VCN
+LNR,Linamar Corp,0.0725%,Consumer Discretionary,CA,"$10,514,980.42","122,026",VCN
+ATS,ATS Corp,0.0701%,Industrials,CA,"$10,155,311.58","258,998",VCN
+TKO,Taseko Mines Ltd,0.0683%,Basic Materials,CA,"$9,900,782.66","1,098,866",VCN
+SVM,Silvercorp Metals Inc,0.0681%,Basic Materials,CA,"$9,877,444.72","660,257",VCN
+TFPM,Triple Flag Precious Metals Corp,0.0658%,Basic Materials,CA,"$9,540,699.00","197,530",VCN
+EQB,EQB Inc,0.0637%,Financials,CA,"$9,231,435.84","82,808",VCN
+VET,Vermilion Energy Inc,0.0637%,Energy,CA,"$9,230,585.04","481,512",VCN
+AYA,Aya Gold & Silver Inc,0.0628%,Basic Materials,CA,"$9,099,815.04","428,832",VCN
+HWX,Headwater Exploration Inc,0.0618%,Energy,CA,"$8,951,438.50","696,610",VCN
+FRU,Freehold Royalties Ltd,0.0615%,Energy,CA,"$8,920,954.08","513,584",VCN
+ARE,Aecon Group Inc,0.0576%,Industrials,CA,"$8,342,391.11","199,531",VCN
+IPCO,International Petroleum Corp,0.0573%,Energy,CA,"$8,299,611.60","221,205",VCN
+RUS,Russel Metals Inc,0.0567%,Basic Materials,CA,"$8,226,000.00","171,375",VCN
+BB,BlackBerry Ltd,0.0563%,Technology,CA,"$8,161,629.74","1,809,674",VCN
+NWC,North West Co Inc/The,0.0561%,Consumer Discretionary,CA,"$8,128,896.16","149,072",VCN
+PXT,Parex Resources Inc,0.0558%,Energy,CA,"$8,087,910.18","295,827",VCN
+SCR,Strathcona Resources Ltd,0.0551%,Energy,CA,"$7,988,016.26","189,559",VCN
+BEI-U,Boardwalk Real Estate Investment Trust,0.0548%,Real Estate,CA,"$7,949,640.75","126,285",VCN
+HR-U,H&R Real Estate Investment Trust,0.0546%,Real Estate,CA,"$7,911,990.25","809,825",VCN
+MFI,Maple Leaf Foods Inc,0.0482%,Consumer Staples,CA,"$6,986,880.00","232,896",VCN
+POU,Paramount Resources Ltd,0.0476%,Energy,CA,"$6,905,614.14","232,434",VCN
+BNT,Brookfield Wealth Solutions Ltd,0.0468%,Financials,CA,"$6,776,847.00","117,348",VCN
+SIA,Sienna Senior Living Inc,0.0466%,Health Care,CA,"$6,762,096.05","312,337",VCN
+CCA,Cogeco Communications Inc,0.046%,Telecommunications,CA,"$6,662,027.80","94,363",VCN
+BDGI,Badger Infrastructure Solutions Ltd,0.0455%,Industrials,CA,"$6,599,753.16","106,379",VCN
+TVK,TerraVest Industries Inc,0.0454%,Industrials,CA,"$6,577,120.20","49,740",VCN
+RCH,Richelieu Hardware Ltd,0.0452%,Industrials,CA,"$6,548,612.32","160,348",VCN
+BIR,Birchcliff Energy Ltd,0.045%,Energy,CA,"$6,516,140.72","852,898",VCN
+PMZ-U,Primaris Real Estate Investment Trust,0.0439%,Real Estate,CA,"$6,357,608.25","368,557",VCN
+TSU,Trisura Group Ltd,0.0434%,Financials,CA,"$6,287,437.24","144,406",VCN
+AIF,Altus Group Ltd/Canada,0.0426%,Real Estate,CA,"$6,180,664.50","129,438",VCN
+SXGC,Mawson Gold Ltd,0.042%,Basic Materials,CA,"$6,081,392.55","687,163",VCN
+BHC,Bausch Health Cos Inc,0.0412%,Health Care,CA,"$5,973,293.92","794,321",VCN
+KMP-U,Killam Apartment Real Estate Investment Trust,0.0412%,Real Estate,CA,"$5,967,150.20","374,116",VCN
+LIF,Labrador Iron Ore Royalty Corp,0.0405%,Basic Materials,CA,"$5,867,195.88","200,109",VCN
+AAV,Advantage Energy Ltd,0.0392%,Energy,CA,"$5,687,287.51","506,437",VCN
+FOM,Foran Mining Corp,0.0384%,Basic Materials,CA,"$5,564,722.24","1,032,416",VCN
+IIP-U,InterRent Real Estate Investment Trust,0.0382%,Real Estate,CA,"$5,539,776.06","417,781",VCN
+CRR-U,Crombie Real Estate Investment Trust,0.0371%,Real Estate,CA,"$5,380,711.74","340,983",VCN
+NFI,NFI Group Inc,0.0357%,Industrials,CA,"$5,178,117.86","269,413",VCN
+USA,Americas Gold & Silver Corp,0.0337%,Basic Materials,CA,"$4,878,182.76","671,926",VCN
+LSPD,Lightspeed Commerce Inc,0.0335%,Technology,CA,"$4,858,864.96","390,584",VCN
+VZLA,Vizsla Silver Corp,0.0329%,Basic Materials,CA,"$4,774,627.71","1,035,711",VCN
+AP-U,Allied Properties Real Estate Investment Trust,0.0328%,Real Estate,CA,"$4,758,664.14","518,373",VCN
+PET,Pet Valu Holdings Ltd,0.0317%,Consumer Discretionary,CA,"$4,591,342.11","214,649",VCN
+SPB,Superior Plus Corp,0.0307%,Utilities,CA,"$4,451,836.73","663,463",VCN
+CRT-U,CT Real Estate Investment Trust,0.0268%,Real Estate,CA,"$3,882,731.92","234,748",VCN
+CJT,Cargojet Inc,0.0253%,Industrials,CA,"$3,672,180.72","45,708",VCN
+WPK,Winpak Ltd,0.0253%,Industrials,CA,"$3,668,302.10","81,265",VCN
+WTE,Westshore Terminals Investment Corp,0.0235%,Industrials,CA,"$3,400,430.19","101,113",VCN
+BBUC,Brookfield Business Corp,0.0215%,Financials,CA,"$3,119,165.92","71,084",VCN
+CFP,Canfor Corp,0.0161%,Basic Materials,CA,"$2,334,746.12","170,171",VCN
+ENGH,Enghouse Systems Ltd,0.0157%,Technology,CA,"$2,269,379.69","136,463",VCN
+LNF,Leon's Furniture Ltd,0.0118%,Consumer Discretionary,CA,"$1,706,885.98","65,599",VCN
+IAG,IAMGOLD Corp,0.0103%,Basic Materials,US,"$1,487,707.03","56,825",VCN
+GSY,goeasy Ltd,0.0102%,Financials,CA,"$1,477,168.97","38,639",VCN
+TCL/A,Transcontinental Inc,0.0084%,Industrials,CA,"$1,210,257.00","231,850",VCN
+CPKR,Canada Packers Inc,0.0067%,Consumer Staples,CA,"$965,376.54","47,862",VCN
+BBD/A,Bombardier Inc,0.0045%,Industrials,CA,"$653,554.00","2,684",VCN
+2299955D,Constellation Software Inc/Canada,0.00%,Technology,CA,$0.39,"38,772",VCN
+,,,,,,,
+"Total allocation percentages shown in the holdings details or the spreadsheet may not equal 100%, due to rounding or omission of cash and/or futures contracts.
+Weighted equity exposures exclude any temporary cash investments and equity index futures. Some short-term fixed income securities are classified as cash and are excluded from the weighted bond exposures.
+
+",,,,,,,

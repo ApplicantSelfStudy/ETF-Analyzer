@@ -1,0 +1,538 @@
+﻿Ticker,Name,Sector,Asset Class,Market Value,Weight (%),Notional Value,Quantity,Price,Location,Exchange,Currency,FX Rate,ETF
+2330,TAIWAN SEMICONDUCTOR MANUFACTURING,Information Technology,Equity,"13,957,310.97",5.88,"13,957,310.97","217,000.00",64.32,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+META,META PLATFORMS INC CLASS A,Communication,Equity,"12,166,281.94",5.13,"12,166,281.94","18,134.00",670.91,United States,NASDAQ,USD,1,AQLT
+NVDA,NVIDIA CORP,Information Technology,Equity,"11,530,553.90",4.86,"11,530,553.90","57,065.00",202.06,United States,NASDAQ,USD,1,AQLT
+AAPL,APPLE INC,Information Technology,Equity,"11,048,149.10",4.66,"11,048,149.10","40,462.00",273.05,United States,NASDAQ,USD,1,AQLT
+MSFT,MICROSOFT CORP,Information Technology,Equity,"9,043,690.24",3.81,"9,043,690.24","21,632.00",418.07,United States,NASDAQ,USD,1,AQLT
+GOOGL,ALPHABET INC CLASS A,Communication,Equity,"7,059,163.82",2.97,"7,059,163.82","20,921.00",337.42,United States,NASDAQ,USD,1,AQLT
+ASML,ASML HOLDING NV,Information Technology,Equity,"6,092,298.62",2.57,"6,092,298.62","4,157.00","1,465.55",Netherlands,Euronext Amsterdam,USD,0.85,AQLT
+GOOG,ALPHABET INC CLASS C,Communication,Equity,"5,917,462.20",2.49,"5,917,462.20","17,643.00",335.4,United States,NASDAQ,USD,1,AQLT
+LLY,ELI LILLY,Health Care,Equity,"5,774,212.30",2.43,"5,774,212.30","6,277.00",919.9,United States,NYSE,USD,1,AQLT
+V,VISA INC CLASS A,Financials,Equity,"5,545,122.22",2.34,"5,545,122.22","17,663.00",313.94,United States,NYSE,USD,1,AQLT
+JNJ,JOHNSON & JOHNSON,Health Care,Equity,"4,267,303.62",1.8,"4,267,303.62","18,498.00",230.69,United States,NYSE,USD,1,AQLT
+WMT,WALMART INC,Consumer Staples,Equity,"4,004,023.92",1.69,"4,004,023.92","31,301.00",127.92,United States,NASDAQ,USD,1,AQLT
+NFLX,NETFLIX INC,Communication,Equity,"3,818,614.44",1.61,"3,818,614.44","40,268.00",94.83,United States,NASDAQ,USD,1,AQLT
+COST,COSTCO WHOLESALE CORP,Consumer Staples,Equity,"3,709,969.12",1.56,"3,709,969.12","3,718.00",997.84,United States,NASDAQ,USD,1,AQLT
+LRCX,LAM RESEARCH CORP,Information Technology,Equity,"3,462,659.28",1.46,"3,462,659.28","13,158.00",263.16,United States,NASDAQ,USD,1,AQLT
+MA,MASTERCARD INC CLASS A,Financials,Equity,"3,195,480.25",1.35,"3,195,480.25","6,185.00",516.65,United States,NYSE,USD,1,AQLT
+CAT,CATERPILLAR INC,Industrials,Equity,"3,094,598.40",1.3,"3,094,598.40","3,876.00",798.4,United States,NYSE,USD,1,AQLT
+AMAT,APPLIED MATERIAL INC,Information Technology,Equity,"2,859,609.24",1.2,"2,859,609.24","7,302.00",391.62,United States,NASDAQ,USD,1,AQLT
+PG,PROCTER & GAMBLE,Consumer Staples,Equity,"2,806,284.78",1.18,"2,806,284.78","19,422.00",144.49,United States,NYSE,USD,1,AQLT
+ROP,ROCHE PS PAR AG,Health Care,Equity,"2,801,435.98",1.18,"2,801,435.98","6,798.00",412.1,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+NOVN,NOVARTIS AG,Health Care,Equity,"2,692,932.27",1.13,"2,692,932.27","17,738.00",151.82,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+KO,COCA-COLA,Consumer Staples,Equity,"2,691,918.72",1.13,"2,691,918.72","35,664.00",75.48,United States,NYSE,USD,1,AQLT
+AZN,ASTRAZENECA PLC,Health Care,Equity,"2,682,128.56",1.13,"2,682,128.56","13,265.00",202.2,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+MRK,MERCK & CO INC,Health Care,Equity,"2,652,315.00",1.12,"2,652,315.00","22,650.00",117.1,United States,NYSE,USD,1,AQLT
+CSCO,CISCO SYSTEMS INC,Information Technology,Equity,"2,522,978.15",1.06,"2,522,978.15","28,765.00",87.71,United States,NASDAQ,USD,1,AQLT
+GE,GE AEROSPACE,Industrials,Equity,"2,243,907.60",0.95,"2,243,907.60","7,391.00",303.6,United States,NYSE,USD,1,AQLT
+KLAC,KLA CORP,Information Technology,Equity,"2,189,853.16",0.92,"2,189,853.16","1,213.00","1,805.32",United States,NASDAQ,USD,1,AQLT
+UNH,UNITEDHEALTH GROUP INC,Health Care,Equity,"2,068,978.08",0.87,"2,068,978.08","6,396.00",323.48,United States,NYSE,USD,1,AQLT
+NESN,NESTLE SA,Consumer Staples,Equity,"1,930,700.91",0.81,"1,930,700.91","19,576.00",98.63,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+TXN,TEXAS INSTRUMENT INC,Information Technology,Equity,"1,660,204.80",0.7,"1,660,204.80","7,104.00",233.7,United States,NASDAQ,USD,1,AQLT
+PEP,PEPSICO INC,Consumer Staples,Equity,"1,640,388.51",0.69,"1,640,388.51","10,449.00",156.99,United States,NASDAQ,USD,1,AQLT
+ANET,ARISTA NETWORKS INC,Information Technology,Equity,"1,611,771.00",0.68,"1,611,771.00","9,660.00",166.85,United States,NYSE,USD,1,AQLT
+APH,AMPHENOL CORP CLASS A,Information Technology,Equity,"1,463,766.99",0.62,"1,463,766.99","9,579.00",152.81,United States,NYSE,USD,1,AQLT
+BHP,BHP GROUP LTD,Materials,Equity,"1,406,510.92",0.59,"1,406,510.92","35,264.00",39.89,Australia,Asx - All Markets,USD,1.4,AQLT
+QCOM,QUALCOMM INC,Information Technology,Equity,"1,369,149.12",0.58,"1,369,149.12","9,956.00",137.52,United States,NASDAQ,USD,1,AQLT
+TJX,TJX INC,Consumer Discretionary,Equity,"1,352,254.92",0.57,"1,352,254.92","8,468.00",159.69,United States,NYSE,USD,1,AQLT
+NOVO B,NOVO NORDISK CLASS B,Health Care,Equity,"1,316,332.00",0.55,"1,316,332.00","32,403.00",40.62,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,6.35,AQLT
+ABT,ABBOTT LABORATORIES,Health Care,Equity,"1,312,512.00",0.55,"1,312,512.00","13,672.00",96,United States,NYSE,USD,1,AQLT
+6857,ADVANTEST CORP,Information Technology,Equity,"1,297,426.69",0.55,"1,297,426.69","7,600.00",170.71,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+ABBN,ABB LTD,Industrials,Equity,"1,240,972.62",0.52,"1,240,972.62","13,013.00",95.36,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+UNP,UNION PACIFIC CORP,Industrials,Equity,"1,222,316.46",0.52,"1,222,316.46","4,847.00",252.18,United States,NYSE,USD,1,AQLT
+ETN,EATON PLC,Industrials,Equity,"1,149,347.40",0.48,"1,149,347.40","2,820.00",407.57,United States,NYSE,USD,1,AQLT
+HON,HONEYWELL INTERNATIONAL INC,Industrials,Equity,"1,142,037.54",0.48,"1,142,037.54","4,971.00",229.74,United States,NASDAQ,USD,1,AQLT
+UBER,UBER TECHNOLOGIES INC,Industrials,Equity,"1,117,793.25",0.47,"1,117,793.25","14,425.00",77.49,United States,NYSE,USD,1,AQLT
+GSK,GLAXOSMITHKLINE,Health Care,Equity,"1,116,880.36",0.47,"1,116,880.36","38,522.00",28.99,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+ADBE,ADOBE INC,Information Technology,Equity,"1,096,458.30",0.46,"1,096,458.30","4,410.00",248.63,United States,NASDAQ,USD,1,AQLT
+8035,TOKYO ELECTRON LTD,Information Technology,Equity,"1,059,245.96",0.45,"1,059,245.96","3,800.00",278.75,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+ULVR,UNILEVER PLC,Consumer Staples,Equity,"1,059,108.84",0.45,"1,059,108.84","18,346.00",57.73,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+ACN,ACCENTURE PLC CLASS A,Information Technology,Equity,"1,022,894.64",0.43,"1,022,894.64","5,244.00",195.06,United States,NYSE,USD,1,AQLT
+TT,TRANE TECHNOLOGIES PLC,Industrials,Equity,"968,797.20",0.41,"968,797.20","2,030.00",477.24,United States,NYSE,USD,1,AQLT
+PH,PARKER-HANNIFIN CORP,Industrials,Equity,"910,746.16",0.38,"910,746.16",914,996.44,United States,NYSE,USD,1,AQLT
+VRTX,VERTEX PHARMACEUTICALS INC,Health Care,Equity,"887,143.60",0.37,"887,143.60","2,020.00",439.18,United States,NASDAQ,USD,1,AQLT
+PGR,PROGRESSIVE CORP,Financials,Equity,"883,182.52",0.37,"883,182.52","4,334.00",203.78,United States,NYSE,USD,1,AQLT
+2308,DELTA ELECTRONICS INC,Information Technology,Equity,"844,887.00",0.36,"844,887.00","14,000.00",60.35,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+ZURN,ZURICH INSURANCE GROUP AG,Financials,Equity,"810,746.63",0.34,"810,746.63","1,117.00",725.83,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+INTU,INTUIT INC,Information Technology,Equity,"806,016.53",0.34,"806,016.53","1,991.00",404.83,United States,NASDAQ,USD,1,AQLT
+LMT,LOCKHEED MARTIN CORP,Industrials,Equity,"805,654.08",0.34,"805,654.08","1,386.00",581.28,United States,NYSE,USD,1,AQLT
+RIO,RIO TINTO PLC,Materials,Equity,"762,519.71",0.32,"762,519.71","7,625.00",100,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+ADP,AUTOMATIC DATA PROCESSING INC,Industrials,Equity,"755,724.26",0.32,"755,724.26","3,734.00",202.39,United States,NASDAQ,USD,1,AQLT
+HWM,HOWMET AEROSPACE INC,Industrials,Equity,"754,334.62",0.32,"754,334.62","2,951.00",255.62,United States,NYSE,USD,1,AQLT
+OR,LOREAL SA,Consumer Staples,Equity,"729,984.44",0.31,"729,984.44","1,767.00",413.12,France,Nyse Euronext - Euronext Paris,USD,0.85,AQLT
+2454,MEDIATEK INC,Information Technology,Equity,"724,188.86",0.31,"724,188.86","12,000.00",60.35,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+8766,TOKIO MARINE HOLDINGS INC,Financials,Equity,"714,132.73",0.3,"714,132.73","15,800.00",45.2,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+MPWR,MONOLITHIC POWER SYSTEMS INC,Information Technology,Equity,"711,140.22",0.3,"711,140.22",477,"1,490.86",United States,NASDAQ,USD,1,AQLT
+CMI,CUMMINS INC,Industrials,Equity,"672,896.77",0.28,"672,896.77","1,057.00",636.61,United States,NYSE,USD,1,AQLT
+9983,FAST RETAILING LTD,Consumer Discretionary,Equity,"658,351.44",0.28,"658,351.44","1,400.00",470.25,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+CDNS,CADENCE DESIGN SYSTEMS INC,Information Technology,Equity,"654,199.00",0.28,"654,199.00","2,054.00",318.5,United States,NASDAQ,USD,1,AQLT
+ITX,INDUSTRIA DE DISENO TEXTIL SA,Consumer Discretionary,Equity,"633,736.97",0.27,"633,736.97","9,911.00",63.94,Spain,Bolsa De Madrid,USD,0.85,AQLT
+MUV2,MUENCHENER RUECKVERSICHERUNGS-GESE,Financials,Equity,"633,627.83",0.27,"633,627.83",949,667.68,Germany,Xetra,USD,0.85,AQLT
+CTAS,CINTAS CORP,Industrials,Equity,"615,944.43",0.26,"615,944.43","3,447.00",178.69,United States,NASDAQ,USD,1,AQLT
+MCO,MOODYS CORP,Financials,Equity,"600,642.46",0.25,"600,642.46","1,306.00",459.91,United States,NYSE,USD,1,AQLT
+ITW,ILLINOIS TOOL INC,Industrials,Equity,"593,351.68",0.25,"593,351.68","2,176.00",272.68,United States,NYSE,USD,1,AQLT
+SHW,SHERWIN WILLIAMS,Materials,Equity,"579,865.98",0.24,"579,865.98","1,686.00",343.93,United States,NYSE,USD,1,AQLT
+MRSH,MARSH INC,Financials,Equity,"579,638.80",0.24,"579,638.80","3,320.00",174.59,United States,NYSE,USD,1,AQLT
+REL,RELX PLC,Industrials,Equity,"577,331.52",0.24,"577,331.52","15,777.00",36.59,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+PDD,PDD HOLDINGS ADS INC,Consumer Discretionary,Equity,"574,350.40",0.24,"574,350.40","5,512.00",104.2,China,NASDAQ,USD,1,AQLT
+6098,RECRUIT HOLDINGS LTD,Industrials,Equity,"566,789.51",0.24,"566,789.51","11,800.00",48.03,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+FIX,COMFORT SYSTEMS USA INC,Industrials,Equity,"549,389.43",0.23,"549,389.43",327,"1,680.09",United States,NYSE,USD,1,AQLT
+FTNT,FORTINET INC,Information Technology,Equity,"548,959.60",0.23,"548,959.60","6,646.00",82.6,United States,NASDAQ,USD,1,AQLT
+RMS,HERMES INTERNATIONAL,Consumer Discretionary,Equity,"521,072.51",0.22,"521,072.51",261,"1,996.45",France,Nyse Euronext - Euronext Paris,USD,0.85,AQLT
+GWW,WW GRAINGER INC,Industrials,Equity,"515,253.30",0.22,"515,253.30",443,"1,163.10",United States,NYSE,USD,1,AQLT
+7741,HOYA CORP,Health Care,Equity,"504,214.31",0.21,"504,214.31","2,700.00",186.75,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+ZTS,ZOETIS INC CLASS A,Health Care,Equity,"500,329.44",0.21,"500,329.44","4,077.00",122.72,United States,NYSE,USD,1,AQLT
+ATCO A,ATLAS COPCO CLASS A,Industrials,Equity,"495,434.59",0.21,"495,434.59","23,981.00",20.66,Sweden,Nasdaq Omx Nordic,USD,9.15,AQLT
+ADSK,AUTODESK INC,Information Technology,Equity,"485,959.11",0.2,"485,959.11","1,981.00",245.31,United States,NASDAQ,USD,1,AQLT
+MNST,MONSTER BEVERAGE CORP,Consumer Staples,Equity,"483,073.65",0.2,"483,073.65","6,255.00",77.23,United States,NASDAQ,USD,1,AQLT
+FAST,FASTENAL,Industrials,Equity,"478,061.08",0.2,"478,061.08","10,493.00",45.56,United States,NASDAQ,USD,1,AQLT
+IDXX,IDEXX LABORATORIES INC,Health Care,Equity,"476,943.08",0.2,"476,943.08",818,583.06,United States,NASDAQ,USD,1,AQLT
+388,HONG KONG EXCHANGES AND CLEARING L,Financials,Equity,"467,784.01",0.2,"467,784.01","8,900.00",52.56,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+WES,WESFARMERS LTD,Consumer Discretionary,Equity,"456,569.95",0.19,"456,569.95","8,542.00",53.45,Australia,Asx - All Markets,USD,1.4,AQLT
+RACE,FERRARI NV,Consumer Discretionary,Equity,"449,467.42",0.19,"449,467.42","1,224.00",367.21,Italy,Borsa Italiana,USD,0.85,AQLT
+CMG,CHIPOTLE MEXICAN GRILL INC,Consumer Discretionary,Equity,"446,907.59",0.19,"446,907.59","12,473.00",35.83,United States,NYSE,USD,1,AQLT
+TER,TERADYNE INC,Information Technology,Equity,"421,736.04",0.18,"421,736.04","1,124.00",375.21,United States,NASDAQ,USD,1,AQLT
+FERG,FERGUSON ENTERPRISES INC,Industrials,Equity,"411,462.04",0.17,"411,462.04","1,562.00",263.42,United States,NYSE,USD,1,AQLT
+INFY,INFOSYS LTD,Information Technology,Equity,"403,496.31",0.17,"403,496.31","28,623.00",14.1,India,National Stock Exchange Of India,USD,93.11,AQLT
+CLS,CELESTICA INC,Information Technology,Equity,"396,739.10",0.17,"396,739.10",990,400.75,Canada,Toronto Stock Exchange,USD,1.37,AQLT
+5803,FUJIKURA LTD,Industrials,Equity,"383,123.88",0.16,"383,123.88","11,000.00",34.83,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+USD,USD CASH,Cash and/or Derivatives,Cash,"381,036.96",0.16,"381,036.96","381,037.00",100,United States,--,USD,1,AQLT
+CPG,COMPASS GROUP PLC,Consumer Discretionary,Equity,"375,216.64",0.16,"375,216.64","13,184.00",28.46,United Kingdom,London Stock Exchange,USD,1,AQLT
+AMP,AMERIPRISE FINANCE INC,Financials,Equity,"374,403.80",0.16,"374,403.80",820,456.59,United States,NYSE,USD,1,AQLT
+GFI,GOLD FIELDS LTD,Materials,Equity,"372,236.67",0.16,"372,236.67","7,612.00",48.9,South Africa,Johannesburg Stock Exchange,USD,16.39,AQLT
+9999,NETEASE INC,Communication,Equity,"370,836.61",0.16,"370,836.61","15,800.00",23.47,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+6146,DISCO CORP,Information Technology,Equity,"367,633.63",0.15,"367,633.63",800,459.54,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+NKE,NIKE INC CLASS B,Consumer Discretionary,Equity,"366,866.64",0.15,"366,866.64","7,893.00",46.48,United States,NYSE,USD,1,AQLT
+2383,ELITE MATERIAL LTD,Information Technology,Equity,"366,858.83",0.15,"366,858.83","3,000.00",122.29,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+EME,EMCOR GROUP INC,Industrials,Equity,"364,026.18",0.15,"364,026.18",438,831.11,United States,NYSE,USD,1,AQLT
+RKT,RECKITT BENCKISER GROUP PLC,Consumer Staples,Equity,"359,723.54",0.15,"359,723.54","5,222.00",68.89,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+PSA,PUBLIC STORAGE REIT,Real Estate,Equity,"349,006.06",0.15,"349,006.06","1,118.00",312.17,United States,NYSE,USD,1,AQLT
+ODFL,OLD DOMINION FREIGHT LINE INC,Industrials,Equity,"347,802.66",0.15,"347,802.66","1,557.00",223.38,United States,NASDAQ,USD,1,AQLT
+PYPL,PAYPAL HOLDINGS INC,Financials,Equity,"338,709.72",0.14,"338,709.72","6,582.00",51.46,United States,NASDAQ,USD,1,AQLT
+2222,SAUDI ARABIAN OIL,Energy,Equity,"335,386.17",0.14,"335,386.17","46,250.00",7.25,Saudi Arabia,Saudi Stock Exchange,USD,3.75,AQLT
+EW,EDWARDS LIFESCIENCES CORP,Health Care,Equity,"329,913.44",0.14,"329,913.44","4,051.00",81.44,United States,NYSE,USD,1,AQLT
+GRMN,GARMIN LTD,Consumer Discretionary,Equity,"328,247.04",0.14,"328,247.04","1,227.00",267.52,United States,NYSE,USD,1,AQLT
+HOLN,HOLCIM LTD AG,Materials,Equity,"327,836.24",0.14,"327,836.24","3,528.00",92.92,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+ROK,ROCKWELL AUTOMATION INC,Industrials,Equity,"321,031.20",0.14,"321,031.20",776,413.7,United States,NYSE,USD,1,AQLT
+2345,ACCTON TECHNOLOGY CORP,Information Technology,Equity,"318,420.76",0.13,"318,420.76","5,000.00",63.68,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+3017,ASIA VITAL COMPONENTS LTD,Information Technology,Equity,"316,356.19",0.13,"316,356.19","4,000.00",79.09,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+RIO,RIO TINTO LTD,Materials,Equity,"306,408.12",0.13,"306,408.12","2,480.00",123.55,Australia,Asx - All Markets,USD,1.4,AQLT
+4568,DAIICHI SANKYO LTD,Health Care,Equity,"298,592.08",0.13,"298,592.08","15,800.00",18.9,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+ASM,ASM INTERNATIONAL NV,Information Technology,Equity,"282,964.49",0.12,"282,964.49",307,921.71,Netherlands,Euronext Amsterdam,USD,0.85,AQLT
+PAYX,PAYCHEX INC,Industrials,Equity,"281,317.98",0.12,"281,317.98","3,022.00",93.09,United States,NASDAQ,USD,1,AQLT
+EXPN,EXPERIAN PLC,Industrials,Equity,"280,059.54",0.12,"280,059.54","7,273.00",38.51,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+III,3I GROUP PLC,Financials,Equity,"278,555.72",0.12,"278,555.72","7,262.00",38.36,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+TCS,TATA CONSULTANCY SERVICES LTD,Information Technology,Equity,"276,791.88",0.12,"276,791.88","9,991.00",27.7,India,National Stock Exchange Of India,USD,93.11,AQLT
+PGHN,PARTNERS GROUP HOLDING AG,Financials,Equity,"271,606.52",0.11,"271,606.52",225,"1,207.14",Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+JBL,JABIL INC,Information Technology,Equity,"271,159.88",0.11,"271,159.88",821,330.28,United States,NYSE,USD,1,AQLT
+4519,CHUGAI PHARMACEUTICAL LTD,Health Care,Equity,"267,417.56",0.11,"267,417.56","4,800.00",55.71,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+UMG,UNIVERSAL MUSIC GROUP NV,Communication,Equity,"262,574.02",0.11,"262,574.02","10,945.00",23.99,Netherlands,Euronext Amsterdam,USD,0.85,AQLT
+RMD,RESMED INC,Health Care,Equity,"259,382.58",0.11,"259,382.58","1,147.00",226.14,United States,NYSE,USD,1,AQLT
+TPL,TEXAS PACIFIC LAND CORP,Energy,Equity,"259,152.72",0.11,"259,152.72",596,434.82,United States,NYSE,USD,1,AQLT
+WSM,WILLIAMS SONOMA INC,Consumer Discretionary,Equity,"248,080.56",0.1,"248,080.56","1,228.00",202.02,United States,NYSE,USD,1,AQLT
+KNEBV,KONE,Industrials,Equity,"247,458.82",0.1,"247,458.82","3,637.00",68.04,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.85,AQLT
+2382,QUANTA COMPUTER INC,Information Technology,Equity,"240,348.12",0.1,"240,348.12","23,000.00",10.45,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+ATCO B,ATLAS COPCO CLASS B,Industrials,Equity,"240,006.00",0.1,"240,006.00","13,203.00",18.18,Sweden,Nasdaq Omx Nordic,USD,9.15,AQLT
+6920,LASERTEC CORP,Information Technology,Equity,"238,798.07",0.1,"238,798.07",900,265.33,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+8725,MS&AD INSURANCE GROUP HOLDINGS INC,Financials,Equity,"235,861.29",0.1,"235,861.29","9,300.00",25.36,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+A,AGILENT TECHNOLOGIES INC,Health Care,Equity,"235,146.24",0.1,"235,146.24","1,944.00",120.96,United States,NYSE,USD,1,AQLT
+GIVN,GIVAUDAN SA,Materials,Equity,"234,379.09",0.1,"234,379.09",63,"3,720.30",Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+ULTA,ULTA BEAUTY INC,Consumer Discretionary,Equity,"230,040.48",0.1,"230,040.48",402,572.24,United States,NASDAQ,USD,1,AQLT
+GEBN,GEBERIT AG,Industrials,Equity,"229,056.63",0.1,"229,056.63",328,698.34,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+CBOE,CBOE GLOBAL MARKETS INC,Financials,Equity,"225,560.40",0.1,"225,560.40",741,304.4,United States,Cboe BZX,USD,1,AQLT
+GEHC,GE HEALTHCARE TECHNOLOGIES INC,Health Care,Equity,"224,822.80",0.09,"224,822.80","3,032.00",74.15,United States,NASDAQ,USD,1,AQLT
+DELTA.R,DELTA ELECTRONICS (THAILAND) NON-V,Information Technology,Equity,"222,942.18",0.09,"222,942.18","23,300.00",9.57,Thailand,Stock Exchange Of Thailand,USD,32.09,AQLT
+CPRT,COPART INC,Industrials,Equity,"219,912.64",0.09,"219,912.64","6,514.00",33.76,United States,NASDAQ,USD,1,AQLT
+ADYEN,ADYEN NV,Financials,Equity,"218,270.45",0.09,"218,270.45",191,"1,142.78",Netherlands,Euronext Amsterdam,USD,0.85,AQLT
+HSY,HERSHEY FOODS,Consumer Staples,Equity,"216,147.05",0.09,"216,147.05","1,129.00",191.45,United States,NYSE,USD,1,AQLT
+HUBB,HUBBELL INC,Industrials,Equity,"215,760.85",0.09,"215,760.85",395,546.23,United States,NYSE,USD,1,AQLT
+IMB,IMPERIAL BRANDS PLC,Consumer Staples,Equity,"213,440.51",0.09,"213,440.51","5,641.00",37.84,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS COR,Information Technology,Equity,"204,281.40",0.09,"204,281.40","3,390.00",60.26,United States,NASDAQ,USD,1,AQLT
+2899,ZIJIN MINING GROUP LTD H,Materials,Equity,"199,084.41",0.08,"199,084.41","42,000.00",4.74,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+2360,CHROMA ATE INC,Information Technology,Equity,"195,340.42",0.08,"195,340.42","3,000.00",65.11,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+NXT,NEXT PLC,Consumer Discretionary,Equity,"193,037.92",0.08,"193,037.92","1,057.00",182.63,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+CPI,CAPITEC LTD,Financials,Equity,"192,915.57",0.08,"192,915.57",724,266.46,South Africa,Johannesburg Stock Exchange,USD,16.39,AQLT
+BAM,BROOKFIELD ASSET MANAGEMENT VOTING,Financials,Equity,"191,065.91",0.08,"191,065.91","3,902.00",48.97,Canada,Toronto Stock Exchange,USD,1.37,AQLT
+EXPD,EXPEDITORS INTERNATIONAL OF WASHIN,Industrials,Equity,"189,922.32",0.08,"189,922.32","1,272.00",149.31,United States,NYSE,USD,1,AQLT
+TSCO,TRACTOR SUPPLY,Consumer Discretionary,Equity,"185,513.40",0.08,"185,513.40","4,140.00",44.81,United States,NASDAQ,USD,1,AQLT
+PHM,PULTEGROUP INC,Consumer Discretionary,Equity,"185,367.00",0.08,"185,367.00","1,455.00",127.4,United States,NYSE,USD,1,AQLT
+UTHR,UNITED THERAPEUTICS CORP,Health Care,Equity,"181,780.48",0.08,"181,780.48",317,573.44,United States,NASDAQ,USD,1,AQLT
+TROW,T ROWE PRICE GROUP INC,Financials,Equity,"181,485.00",0.08,"181,485.00","1,850.00",98.1,United States,NASDAQ,USD,1,AQLT
+LULU,LULULEMON ATHLETICA INC,Consumer Discretionary,Equity,"180,655.23",0.08,"180,655.23","1,083.00",166.81,United States,NASDAQ,USD,1,AQLT
+BESI,BE SEMICONDUCTOR INDUSTRIES NV,Information Technology,Equity,"180,368.81",0.08,"180,368.81",675,267.21,Netherlands,Euronext Amsterdam,USD,0.85,AQLT
+NVR,NVR INC,Consumer Discretionary,Equity,"177,424.25",0.07,"177,424.25",25,"7,096.97",United States,NYSE,USD,1,AQLT
+FMG,FORTESCUE LTD,Materials,Equity,"175,332.84",0.07,"175,332.84","11,564.00",15.16,Australia,Asx - All Markets,USD,1.4,AQLT
+VEEV,VEEVA SYSTEMS INC CLASS A,Health Care,Equity,"174,074.04",0.07,"174,074.04","1,031.00",168.84,United States,NYSE,USD,1,AQLT
+VLTO,VERALTO CORP,Industrials,Equity,"173,266.51",0.07,"173,266.51","1,919.00",90.29,United States,NYSE,USD,1,AQLT
+VACN,VAT GROUP AG,Industrials,Equity,"170,331.06",0.07,"170,331.06",229,743.8,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+CHD,CHURCH AND DWIGHT INC,Consumer Staples,Equity,"169,831.45",0.07,"169,831.45","1,759.00",96.55,United States,NYSE,USD,1,AQLT
+DECK,DECKERS OUTDOOR CORP,Consumer Discretionary,Equity,"168,366.96",0.07,"168,366.96","1,516.00",111.06,United States,NYSE,USD,1,AQLT
+WAT,WATERS CORP,Health Care,Equity,"168,140.61",0.07,"168,140.61",501,335.61,United States,NYSE,USD,1,AQLT
+CHRW,CH ROBINSON WORLDWIDE INC,Industrials,Equity,"165,922.90",0.07,"165,922.90",902,183.95,United States,NASDAQ,USD,1,AQLT
+BBCA,BANK CENTRAL ASIA,Financials,Equity,"163,854.83",0.07,"163,854.83","434,500.00",0.38,Indonesia,Indonesia Stock Exchange,USD,"17,170.00",AQLT
+EMAAR,EMAAR PROPERTIES,Real Estate,Equity,"163,195.12",0.07,"163,195.12","47,426.00",3.44,United Arab Emirates,Dubai Financial Market,USD,3.67,AQLT
+HLMA,HALMA PLC,Information Technology,Equity,"162,726.05",0.07,"162,726.05","2,686.00",60.58,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+BXB,BRAMBLES LTD,Industrials,Equity,"162,583.04",0.07,"162,583.04","10,018.00",16.23,Australia,Asx - All Markets,USD,1.4,AQLT
+WRT1V,WARTSILA,Industrials,Equity,"161,222.84",0.07,"161,222.84","3,738.00",43.13,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.85,AQLT
+BALL,BALL CORP,Materials,Equity,"160,267.09",0.07,"160,267.09","2,503.00",64.03,United States,NYSE,USD,1,AQLT
+3653,JENTECH PRECISION INDUSTRIAL LTD,Information Technology,Equity,"159,448.60",0.07,"159,448.60","1,000.00",159.45,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+7010,SAUDI TELECOM,Communication,Equity,"159,309.24",0.07,"159,309.24","13,916.00",11.45,Saudi Arabia,Saudi Stock Exchange,USD,3.75,AQLT
+KOG,KONGSBERG GRUPPEN,Industrials,Equity,"156,811.95",0.07,"156,811.95","3,955.00",39.65,Norway,Oslo Bors Asa,USD,9.33,AQLT
+BEL,BHARAT ELECTRONICS LTD,Industrials,Equity,"154,460.13",0.07,"154,460.13","31,433.00",4.91,India,National Stock Exchange Of India,USD,93.11,AQLT
+MTX,MTU AERO ENGINES HOLDING AG,Industrials,Equity,"154,342.73",0.07,"154,342.73",396,389.75,Germany,Xetra,USD,0.85,AQLT
+SNA,SNAP ON INC,Industrials,Equity,"153,196.56",0.06,"153,196.56",396,386.86,United States,NYSE,USD,1,AQLT
+GMAB,GENMAB,Health Care,Equity,"152,658.11",0.06,"152,658.11",546,279.59,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,6.35,AQLT
+HINDUNILVR,HINDUSTAN UNILEVER LTD,Consumer Staples,Equity,"150,024.86",0.06,"150,024.86","6,260.00",23.97,India,National Stock Exchange Of India,USD,93.11,AQLT
+669,TECHTRONIC INDUSTRIES LTD,Industrials,Equity,"150,037.35",0.06,"150,037.35","10,500.00",14.29,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+SCCO,SOUTHERN COPPER CORP,Materials,Equity,"145,740.64",0.06,"145,740.64",764,190.76,Peru,NYSE,USD,1,AQLT
+B3SA3,B3 BRASIL BOLSA BALCAO SA,Financials,Equity,"145,443.24",0.06,"145,443.24","37,663.00",3.86,Brazil,XBSP,USD,4.98,AQLT
+7936,ASICS CORP,Consumer Discretionary,Equity,"145,169.93",0.06,"145,169.93","5,000.00",29.03,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+600519,KWEICHOW MOUTAI LTD A,Consumer Staples,Equity,"144,867.99",0.06,"144,867.99",700,206.95,China,Shanghai Stock Exchange,USD,6.82,AQLT
+BR,BROADRIDGE FINANCIAL SOLUTIONS INC,Industrials,Equity,"144,506.88",0.06,"144,506.88",896,161.28,United States,NYSE,USD,1,AQLT
+WKL,WOLTERS KLUWER NV,Industrials,Equity,"144,024.07",0.06,"144,024.07","1,765.00",81.6,Netherlands,Euronext Amsterdam,USD,0.85,AQLT
+1024,KUAISHOU TECHNOLOGY,Communication,Equity,"142,180.93",0.06,"142,180.93","23,700.00",6,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+ROL,ROLLINS INC,Industrials,Equity,"141,257.70",0.06,"141,257.70","2,573.00",54.9,United States,NYSE,USD,1,AQLT
+ALL,ARISTOCRAT LEISURE LTD,Consumer Discretionary,Equity,"140,846.75",0.06,"140,846.75","4,020.00",35.04,Australia,Asx - All Markets,USD,1.4,AQLT
+HNR1,HANNOVER RUECK,Financials,Equity,"140,187.26",0.06,"140,187.26",429,326.78,Germany,Xetra,USD,0.85,AQLT
+3529,EMEMORY TECHNOLOGY INC,Information Technology,Equity,"139,279.31",0.06,"139,279.31","1,000.00",139.28,Taiwan,Gretai Securities Market,USD,31.48,AQLT
+WEGE3,WEG SA,Industrials,Equity,"138,160.00",0.06,"138,160.00","14,206.00",9.73,Brazil,XBSP,USD,4.98,AQLT
+LOGN,LOGITECH INTERNATIONAL SA,Information Technology,Equity,"137,805.06",0.06,"137,805.06","1,380.00",99.86,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+CDW,CDW CORP,Information Technology,Equity,"137,260.55",0.06,"137,260.55","1,003.00",136.85,United States,NASDAQ,USD,1,AQLT
+FFIV,F5 INC,Information Technology,Equity,"135,962.00",0.06,"135,962.00",433,314,United States,NASDAQ,USD,1,AQLT
+LDOS,LEIDOS HOLDINGS INC,Industrials,Equity,"135,777.14",0.06,"135,777.14",877,154.82,United States,NYSE,USD,1,AQLT
+LII,LENNOX INTERNATIONAL INC,Industrials,Equity,"135,701.50",0.06,"135,701.50",275,493.46,United States,NYSE,USD,1,AQLT
+WST,WEST PHARMACEUTICAL SERVICES INC,Health Care,Equity,"135,386.00",0.06,"135,386.00",487,278,United States,NYSE,USD,1,AQLT
+9633,NONGFU SPRING LTD H,Consumer Staples,Equity,"133,083.05",0.06,"133,083.05","21,400.00",6.22,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+CSL,CARLISLE COMPANIES INC,Industrials,Equity,"132,186.60",0.06,"132,186.60",364,363.15,United States,NYSE,USD,1,AQLT
+EPI A,EPIROC CLASS A,Industrials,Equity,"132,038.19",0.06,"132,038.19","4,801.00",27.5,Sweden,Nasdaq Omx Nordic,USD,9.15,AQLT
+ALFA,ALFA LAVAL,Industrials,Equity,"129,679.65",0.05,"129,679.65","2,099.00",61.78,Sweden,Nasdaq Omx Nordic,USD,9.15,AQLT
+MARUTI,MARUTI SUZUKI INDIA LTD,Consumer Discretionary,Equity,"127,692.84",0.05,"127,692.84",884,144.45,India,National Stock Exchange Of India,USD,93.11,AQLT
+WALMEX*,WALMART DE MEXICO V,Consumer Staples,Equity,"126,715.19",0.05,"126,715.19","39,500.00",3.21,Mexico,Bolsa Mexicana De Valores,USD,17.34,AQLT
+6669,WIWYNN CORPORATION CORP,Information Technology,Equity,"126,415.42",0.05,"126,415.42","1,000.00",126.42,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+SUNPHARMA,SUN PHARMACEUTICAL INDUSTRIES LTD,Health Care,Equity,"123,667.70",0.05,"123,667.70","6,901.00",17.92,India,National Stock Exchange Of India,USD,93.11,AQLT
+FBK,FINECOBANK BANCA FINECO,Financials,Equity,"123,158.00",0.05,"123,158.00","4,747.00",25.94,Italy,Borsa Italiana,USD,0.85,AQLT
+S68,SINGAPORE EXCHANGE LTD,Financials,Equity,"122,714.72",0.05,"122,714.72","7,200.00",17.04,Singapore,Singapore Exchange,USD,1.27,AQLT
+ITSA4,ITAUSA INVESTIMENTOS ITAU PREF SA,Financials,Equity,"122,681.30",0.05,"122,681.30","41,489.00",2.96,Brazil,XBSP,USD,4.98,AQLT
+WSO,WATSCO INC,Industrials,Equity,"122,316.39",0.05,"122,316.39",279,438.41,United States,NYSE,USD,1,AQLT
+SBSP3,COMPANHIA DE SANEAMENTO BASICO DE,Utilities,Equity,"122,225.23",0.05,"122,225.23","3,461.00",35.32,Brazil,XBSP,USD,4.98,AQLT
+BBY,BEST BUY INC,Consumer Discretionary,Equity,"120,960.58",0.05,"120,960.58","1,807.00",66.94,United States,NYSE,USD,1,AQLT
+RO,ROCHE HOLDING AG,Health Care,Equity,"120,584.82",0.05,"120,584.82",283,426.09,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+HCLTECH,HCL TECHNOLOGIES LTD,Information Technology,Equity,"119,280.02",0.05,"119,280.02","7,776.00",15.34,India,National Stock Exchange Of India,USD,93.11,AQLT
+2059,KING SLIDE WORKS LTD,Information Technology,Equity,"118,951.20",0.05,"118,951.20","1,000.00",118.95,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+NVMI,NOVA LTD,Information Technology,Equity,"118,475.74",0.05,"118,475.74",223,531.28,Israel,Tel Aviv Stock Exchange,USD,2.99,AQLT
+267260,HD HYUNDAI ELECTRIC LTD,Industrials,Equity,"117,732.27",0.05,"117,732.27",160,735.83,Korea (South),Korea Exchange (Stock Market),USD,"1,477.25",AQLT
+2368,GOLD CIRCUIT ELECTRONICS LTD,Information Technology,Equity,"115,298.49",0.05,"115,298.49","3,000.00",38.43,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+3661,ALCHIP TECHNOLOGIES LTD,Information Technology,Equity,"115,139.68",0.05,"115,139.68","1,000.00",115.14,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+3443,GLOBAL UNICHIP CORP,Information Technology,Equity,"113,710.36",0.05,"113,710.36","1,000.00",113.71,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+ADM,ADMIRAL GROUP PLC,Financials,Equity,"113,095.99",0.05,"113,095.99","2,454.00",46.09,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+DKS,DICKS SPORTING INC,Consumer Discretionary,Equity,"112,081.32",0.05,"112,081.32",486,230.62,United States,NYSE,USD,1,AQLT
+CHKP,CHECK POINT SOFTWARE TECHNOLOGIES,Information Technology,Equity,"111,487.05",0.05,"111,487.05",807,138.15,Israel,NASDAQ,USD,1,AQLT
+SGE,THE SAGE GROUP PLC,Information Technology,Equity,"111,498.94",0.05,"111,498.94","9,196.00",12.12,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+SCHP,SCHINDLER HOLDING PAR AG,Industrials,Equity,"111,433.93",0.05,"111,433.93",316,352.64,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+MONC,MONCLER,Consumer Discretionary,Equity,"111,379.25",0.05,"111,379.25","1,653.00",67.38,Italy,Borsa Italiana,USD,0.85,AQLT
+OMC,OMNICOM GROUP INC,Communication,Equity,"110,528.00",0.05,"110,528.00","1,408.00",78.5,United States,NYSE,USD,1,AQLT
+KNIN,KUEHNE UND NAGEL INTERNATIONAL AG,Industrials,Equity,"110,191.73",0.05,"110,191.73",458,240.59,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+GGG,GRACO INC,Industrials,Equity,"108,202.79",0.05,"108,202.79","1,241.00",87.19,United States,NYSE,USD,1,AQLT
+9992,POP MART INTERNATIONAL GROUP LTD,Consumer Discretionary,Equity,"106,841.36",0.05,"106,841.36","5,200.00",20.55,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+GIB.A,CGI INC CLASS A,Information Technology,Equity,"105,435.29",0.04,"105,435.29","1,371.00",76.9,Canada,Toronto Stock Exchange,USD,1.37,AQLT
+STMN,STRAUMANN HOLDING AG,Health Care,Equity,"102,913.21",0.04,"102,913.21",882,116.68,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+PNR,PENTAIR,Industrials,Equity,"101,100.74",0.04,"101,100.74","1,118.00",90.43,United States,NYSE,USD,1,AQLT
+AVY,AVERY DENNISON CORP,Materials,Equity,"100,862.32",0.04,"100,862.32",586,172.12,United States,NYSE,USD,1,AQLT
+NESTLEIND,NESTLE INDIA LTD,Consumer Staples,Equity,"100,107.44",0.04,"100,107.44","7,246.00",13.82,India,National Stock Exchange Of India,USD,93.11,AQLT
+ABEV3,AMBEV SA,Consumer Staples,Equity,"99,854.30",0.04,"99,854.30","32,512.00",3.07,Brazil,XBSP,USD,4.98,AQLT
+ALLE,ALLEGION PLC,Industrials,Equity,"98,681.60",0.04,"98,681.60",680,145.12,United States,NYSE,USD,1,AQLT
+7832,BANDAI NAMCO HOLDINGS INC,Consumer Discretionary,Equity,"94,123.28",0.04,"94,123.28","3,800.00",24.77,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+ORNBV,ORION CLASS B,Health Care,Equity,"94,124.44",0.04,"94,124.44","1,064.00",88.46,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.85,AQLT
+2020,ANTA SPORTS PRODUCTS LTD,Consumer Discretionary,Equity,"94,060.18",0.04,"94,060.18","8,600.00",10.94,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+8697,JAPAN EXCHANGE GROUP INC,Financials,Equity,"93,683.27",0.04,"93,683.27","7,900.00",11.86,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+FPH,FISHER AND PAYKEL HEALTHCARE CORPO,Health Care,Equity,"93,595.21",0.04,"93,595.21","4,210.00",22.23,New Zealand,New Zealand Exchange Ltd,USD,1.7,AQLT
+PRIO3,PETRO RIO SA,Energy,Equity,"93,121.59",0.04,"93,121.59","7,532.00",12.36,Brazil,XBSP,USD,4.98,AQLT
+CPU,COMPUTERSHARE LTD,Industrials,Equity,"91,573.07",0.04,"91,573.07","4,188.00",21.87,Australia,Asx - All Markets,USD,1.4,AQLT
+WISE,WISE PLC CLASS A,Financials,Equity,"90,949.92",0.04,"90,949.92","6,213.00",14.64,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+ITRK,INTERTEK GROUP PLC,Industrials,Equity,"89,859.79",0.04,"89,859.79","1,360.00",66.07,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+IT,GARTNER INC,Information Technology,Equity,"89,832.25",0.04,"89,832.25",575,156.23,United States,NYSE,USD,1,AQLT
+BVI,BUREAU VERITAS SA,Industrials,Equity,"89,505.66",0.04,"89,505.66","2,631.00",34.02,France,Nyse Euronext - Euronext Paris,USD,0.85,AQLT
+6383,DAIFUKU LTD,Industrials,Equity,"89,333.21",0.04,"89,333.21","2,200.00",40.61,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+CCH,COCA COLA HBC AG,Consumer Staples,Equity,"89,006.83",0.04,"89,006.83","1,501.00",59.3,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+HAR,HARMONY GOLD MINING COMPANY LIMITE,Materials,Equity,"88,856.05",0.04,"88,856.05","4,857.00",18.29,South Africa,Johannesburg Stock Exchange,USD,16.39,AQLT
+1378,CHINA HONGQIAO GROUP LTD,Materials,Equity,"88,117.17",0.04,"88,117.17","18,500.00",4.76,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+COALINDIA,COAL INDIA LTD,Energy,Equity,"87,896.92",0.04,"87,896.92","18,527.00",4.74,India,National Stock Exchange Of India,USD,93.11,AQLT
+JKHY,JACK HENRY AND ASSOCIATES INC,Financials,Equity,"87,705.90",0.04,"87,705.90",570,153.87,United States,NASDAQ,USD,1,AQLT
+CARL B,CARLSBERG AS CL B,Consumer Staples,Equity,"87,459.53",0.04,"87,459.53",664,131.72,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,6.35,AQLT
+ITC,ITC LTD,Consumer Staples,Equity,"87,134.43",0.04,"87,134.43","26,601.00",3.28,India,National Stock Exchange Of India,USD,93.11,AQLT
+SOON,SONOVA HOLDING AG,Health Care,Equity,"86,970.08",0.04,"86,970.08",361,240.91,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+EVO,EVOLUTION,Consumer Discretionary,Equity,"85,478.85",0.04,"85,478.85","1,228.00",69.61,Sweden,Nasdaq Omx Nordic,USD,9.15,AQLT
+ADVANC.R,ADVANCED INFO SERVICE NON-VOTING D,Communication,Equity,"84,715.60",0.04,"84,715.60","7,700.00",11,Thailand,Stock Exchange Of Thailand,USD,32.09,AQLT
+4307,NOMURA RESEARCH INSTITUTE LTD,Information Technology,Equity,"84,446.75",0.04,"84,446.75","2,700.00",31.28,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+BEAN,BELIMO N AG,Industrials,Equity,"84,371.39",0.04,"84,371.39",90,937.46,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+EICHERMOT,EICHER MOTORS LTD,Consumer Discretionary,Equity,"84,088.42",0.04,"84,088.42","1,081.00",77.79,India,National Stock Exchange Of India,USD,93.11,AQLT
+3533,LOTES LTD,Information Technology,Equity,"83,377.01",0.04,"83,377.01","1,000.00",83.38,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+RENT3,LOCALIZA RENT A CAR SA,Industrials,Equity,"83,264.35",0.04,"83,264.35","7,985.00",10.43,Brazil,XBSP,USD,4.98,AQLT
+TIH,TOROMONT INDUSTRIES LTD,Industrials,Equity,"82,796.18",0.03,"82,796.18",546,151.64,Canada,Toronto Stock Exchange,USD,1.37,AQLT
+SMIN,SMITHS GROUP PLC,Industrials,Equity,"81,707.60",0.03,"81,707.60","2,341.00",34.9,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+METSO,METSO CORPORATION,Industrials,Equity,"81,576.08",0.03,"81,576.08","4,291.00",19.01,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.85,AQLT
+FRES,FRESNILLO PLC,Materials,Equity,"80,026.30",0.03,"80,026.30","1,616.00",49.52,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+OKLO,OKLO INC CLASS A,Utilities,Equity,"79,984.62",0.03,"79,984.62","1,174.00",68.13,United States,NYSE,USD,1,AQLT
+7735,SCREEN HOLDINGS LTD,Information Technology,Equity,"79,939.53",0.03,"79,939.53","1,200.00",66.62,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+ASIANPAINT,ASIAN PAINTS LTD,Materials,Equity,"79,683.46",0.03,"79,683.46","2,948.00",27.03,India,National Stock Exchange Of India,USD,93.11,AQLT
+VEDL,VEDANTA LTD,Materials,Equity,"78,861.64",0.03,"78,861.64","9,524.00",8.28,India,National Stock Exchange Of India,USD,93.11,AQLT
+G1A,GEA GROUP AG,Industrials,Equity,"77,714.50",0.03,"77,714.50","1,058.00",73.45,Germany,Xetra,USD,0.85,AQLT
+HAL,HINDUSTAN AERONAUTICS LTD,Industrials,Equity,"77,546.61",0.03,"77,546.61","1,662.00",46.66,India,National Stock Exchange Of India,USD,93.11,AQLT
+042700,HANMI SEMICONDUCTOR LTD,Information Technology,Equity,"77,323.40",0.03,"77,323.40",398,194.28,Korea (South),Korea Exchange (Stock Market),USD,"1,477.25",AQLT
+BS6,YANGZIJIANG SHIPBUILDING (HOLDINGS,Industrials,Equity,"75,714.68",0.03,"75,714.68","23,700.00",3.19,Singapore,Singapore Exchange,USD,1.27,AQLT
+992,LENOVO GROUP LTD,Information Technology,Equity,"74,437.02",0.03,"74,437.02","52,000.00",1.43,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+ADDT B,ADDTECH CLASS B,Industrials,Equity,"72,559.31",0.03,"72,559.31","1,902.00",38.15,Sweden,Nasdaq Omx Nordic,USD,9.15,AQLT
+GAPB,GRUPO AEROPORTUARIO DEL PACIFICO,Industrials,Equity,"71,323.53",0.03,"71,323.53","2,867.00",24.88,Mexico,Bolsa Mexicana De Valores,USD,17.34,AQLT
+601138,FOXCONN INDUSTRIAL INTERNET LTD A,Information Technology,Equity,"71,277.76",0.03,"71,277.76","7,900.00",9.02,China,Shanghai Stock Exchange,USD,6.82,AQLT
+ADIB,ABU DHABI ISLAMIC BANK,Financials,Equity,"71,172.38",0.03,"71,172.38","11,125.00",6.4,United Arab Emirates,Abu Dhabi Securities Exchange,USD,3.67,AQLT
+SLM,SANLAM LIMITED LTD,Financials,Equity,"70,851.30",0.03,"70,851.30","13,059.00",5.43,South Africa,Johannesburg Stock Exchange,USD,16.39,AQLT
+MPL,MEDIBANK PRIVATE LTD,Financials,Equity,"70,761.51",0.03,"70,761.51","21,202.00",3.34,Australia,Asx - All Markets,USD,1.4,AQLT
+BRITANNIA,BRITANNIA INDUSTRIES LTD,Consumer Staples,Equity,"70,276.28",0.03,"70,276.28","1,148.00",61.22,India,National Stock Exchange Of India,USD,93.11,AQLT
+XTSLA,BLK CSH FND TREASURY SL AGENCY,Cash and/or Derivatives,Money Market,"69,961.93",0.03,"69,961.93","69,962.00",1,United States,--,USD,1,AQLT
+FUTU,FUTU HOLDINGS ADR LTD,Financials,Equity,"69,207.60",0.03,"69,207.60",420,164.78,Hong Kong,NASDAQ,USD,1,AQLT
+LUG,LUNDIN GOLD INC,Materials,Equity,"69,129.08",0.03,"69,129.08",820,84.3,Canada,Toronto Stock Exchange,USD,1.37,AQLT
+CON,CONTINENTAL AG,Consumer Discretionary,Equity,"69,073.28",0.03,"69,073.28",880,78.49,Germany,Xetra,USD,0.85,AQLT
+2379,REALTEK SEMICONDUCTOR CORP,Information Technology,Equity,"68,353.26",0.03,"68,353.26","4,000.00",17.09,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+EPI B,EPIROC CLASS B,Industrials,Equity,"68,081.79",0.03,"68,081.79","2,844.00",23.94,Sweden,Nasdaq Omx Nordic,USD,9.15,AQLT
+SOBI,SWEDISH ORPHAN BIOVITRUM,Health Care,Equity,"66,617.91",0.03,"66,617.91","1,458.00",45.69,Sweden,Nasdaq Omx Nordic,USD,9.15,AQLT
+PME,PRO MEDICUS LTD,Health Care,Equity,"66,475.39",0.03,"66,475.39",641,103.71,Australia,Asx - All Markets,USD,1.4,AQLT
+SBILIFE,SBI LIFE INSURANCE COMPANY LTD,Financials,Equity,"66,131.24",0.03,"66,131.24","3,106.00",21.29,India,National Stock Exchange Of India,USD,93.11,AQLT
+4013,DR SULAIMAN AL HABIB MEDICAL GRP,Health Care,Equity,"65,892.91",0.03,"65,892.91",993,66.36,Saudi Arabia,Saudi Stock Exchange,USD,3.75,AQLT
+3034,NOVATEK MICROELECTRONICS CORP,Information Technology,Equity,"65,907.54",0.03,"65,907.54","5,000.00",13.18,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+CUMMINSIND,CUMMINS INDIA LTD,Industrials,Equity,"65,623.33",0.03,"65,623.33","1,175.00",55.85,India,National Stock Exchange Of India,USD,93.11,AQLT
+AUTO,AUTOTRADER GROUP PLC,Communication,Equity,"64,889.63",0.03,"64,889.63","9,372.00",6.92,United Kingdom,London Stock Exchange,USD,0.74,AQLT
+000810,SAMSUNG FIRE & MARINE INSURANCE LT,Financials,Equity,"64,698.26",0.03,"64,698.26",201,321.88,Korea (South),Korea Exchange (Stock Market),USD,"1,477.25",AQLT
+9697,CAPCOM LTD,Communication,Equity,"63,713.50",0.03,"63,713.50","2,700.00",23.6,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+300308,ZHONGJI INNOLIGHT LTD A,Information Technology,Equity,"62,340.48",0.03,"62,340.48",500,124.68,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+BPSFT,CASH COLLATERAL BPSFT USD,Cash and/or Derivatives,Cash Collateral and Margins,"62,000.00",0.03,"62,000.00","62,000.00",100,United States,--,USD,1,AQLT
+REA,REA GROUP LTD,Communication,Equity,"61,435.78",0.03,"61,435.78",492,124.87,Australia,Asx - All Markets,USD,1.4,AQLT
+278470,APR LTD,Consumer Staples,Equity,"61,448.98",0.03,"61,448.98",219,280.59,Korea (South),Korea Exchange (Stock Market),USD,"1,477.25",AQLT
+SCHN,SCHINDLER HOLDING AG,Industrials,Equity,"61,131.37",0.03,"61,131.37",181,337.74,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+079550,LIG DEFENSE&AEROSPACE LTD,Industrials,Equity,"61,098.66",0.03,"61,098.66",98,623.46,Korea (South),Korea Exchange (Stock Market),USD,"1,477.25",AQLT
+TRENT,TRENT LTD,Consumer Discretionary,Equity,"60,238.76",0.03,"60,238.76","1,322.00",45.57,India,National Stock Exchange Of India,USD,93.11,AQLT
+COH,COCHLEAR LTD,Health Care,Equity,"60,027.37",0.03,"60,027.37",491,122.26,Australia,Asx - All Markets,USD,1.4,AQLT
+3993,CMOC GROUP LTD,Materials,Equity,"59,578.22",0.03,"59,578.22","24,000.00",2.48,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+COMI,COMMERCIAL INTERNATIONAL BANK EGYP,Financials,Equity,"59,117.71",0.02,"59,117.71","21,984.00",2.69,Egypt,Egyptian Exchange,USD,51.95,AQLT
+CHF,CHF CASH,Cash and/or Derivatives,Cash,"58,526.49",0.02,"58,526.49","45,575.00",128.42,Switzerland,--,USD,0.78,AQLT
+MICC,MAGNUM ICE CREAM NV,Consumer Staples,Equity,"58,429.27",0.02,"58,429.27","4,111.00",14.21,Netherlands,Euronext Amsterdam,USD,0.85,AQLT
+COLO B,COLOPLAST B,Health Care,Equity,"58,225.28",0.02,"58,225.28",848,68.66,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,6.35,AQLT
+1308,SITC INTERNATIONAL HOLDINGS LTD,Industrials,Equity,"57,305.21",0.02,"57,305.21","13,000.00",4.41,Hong Kong,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+ELISA,ELISA,Communication,Equity,"56,450.93",0.02,"56,450.93","1,155.00",48.88,Finland,Nasdaq Omx Helsinki Ltd.,USD,0.85,AQLT
+GULF.R,GULF DEVELOPMENT NON-VOTING DR PCL,Utilities,Equity,"56,461.74",0.02,"56,461.74","31,100.00",1.82,Thailand,Stock Exchange Of Thailand,USD,32.09,AQLT
+ERIE,ERIE INDEMNITY CLASS A,Financials,Equity,"55,798.60",0.02,"55,798.60",220,253.63,United States,NASDAQ,USD,1,AQLT
+LIFCO B,LIFCO CLASS B,Industrials,Equity,"55,364.13",0.02,"55,364.13","1,571.00",35.24,Sweden,Nasdaq Omx Nordic,USD,9.15,AQLT
+BAJAJ-AUTO,BAJAJ AUTO LTD,Consumer Discretionary,Equity,"54,851.53",0.02,"54,851.53",521,105.28,India,National Stock Exchange Of India,USD,93.11,AQLT
+HEROMOTOCO,HERO MOTOCORP LTD,Consumer Discretionary,Equity,"54,576.61",0.02,"54,576.61",962,56.73,India,National Stock Exchange Of India,USD,93.11,AQLT
+ASX,ASX LTD,Financials,Equity,"54,550.03",0.02,"54,550.03","1,296.00",42.09,Australia,Asx - All Markets,USD,1.4,AQLT
+BBSE3,BB SEGURIDADE SA,Financials,Equity,"54,552.94",0.02,"54,552.94","7,708.00",7.08,Brazil,XBSP,USD,4.98,AQLT
+CIPLA,CIPLA LTD,Health Care,Equity,"54,151.48",0.02,"54,151.48","4,101.00",13.2,India,National Stock Exchange Of India,USD,93.11,AQLT
+ASURB,GRUPO AEROPORTUARIO DEL SURESTE B,Industrials,Equity,"52,753.25",0.02,"52,753.25","1,590.00",33.18,Mexico,Bolsa Mexicana De Valores,USD,17.34,AQLT
+HDFCAMC,HDFC ASSET MANAGEMENT COMPANY LTD,Financials,Equity,"51,848.47",0.02,"51,848.47","1,744.00",29.73,India,National Stock Exchange Of India,USD,93.11,AQLT
+DRREDDY,DR REDDYS LABORATORIES LTD,Health Care,Equity,"51,005.05",0.02,"51,005.05","3,853.00",13.24,India,National Stock Exchange Of India,USD,93.11,AQLT
+3692,HANSOH PHARMACEUTICAL GROUP LTD,Health Care,Equity,"50,951.02",0.02,"50,951.02","10,000.00",5.1,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+5274,ASPEED TECHNOLOGY INC,Information Technology,Equity,"49,941.24",0.02,"49,941.24",109,458.18,Taiwan,Gretai Securities Market,USD,31.48,AQLT
+3293,INTERNATIONAL GAMES SYSTEM LTD,Communication,Equity,"49,867.39",0.02,"49,867.39","2,000.00",24.93,Taiwan,Gretai Securities Market,USD,31.48,AQLT
+PERSISTENT,PERSISTENT SYSTEMS LTD,Information Technology,Equity,"49,355.86",0.02,"49,355.86",863,57.19,India,National Stock Exchange Of India,USD,93.11,AQLT
+PNDORA,PANDORA,Consumer Discretionary,Equity,"49,315.59",0.02,"49,315.59",600,82.19,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,6.35,AQLT
+CGPOWER,CG POWER AND INDUSTRIAL SOLUTIONS,Industrials,Equity,"48,923.43",0.02,"48,923.43","5,725.00",8.55,India,National Stock Exchange Of India,USD,93.11,AQLT
+GBP,GBP CASH,Cash and/or Derivatives,Cash,"46,778.73",0.02,"46,778.73","34,592.00",135.23,United Kingdom,--,USD,0.74,AQLT
+1878,DAITO TRUST CONSTRUCTION LTD,Real Estate,Equity,"46,459.42",0.02,"46,459.42","2,100.00",22.12,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+EMSN,EMS-CHEMIE HOLDING AG,Materials,Equity,"46,462.05",0.02,"46,462.05",54,860.41,Switzerland,SIX Swiss Exchange,USD,0.78,AQLT
+2359,WUXI APPTEC LTD H,Health Care,Equity,"45,845.70",0.02,"45,845.70","2,900.00",15.81,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+151,WANT WANT CHINA HOLDINGS LTD,Consumer Staples,Equity,"45,799.73",0.02,"45,799.73","79,000.00",0.58,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+4684,OBIC LTD,Information Technology,Equity,"45,695.30",0.02,"45,695.30","1,700.00",26.88,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+GJF,GJENSIDIGE FORSIKRING,Financials,Equity,"45,464.75",0.02,"45,464.75","1,631.00",27.88,Norway,Oslo Bors Asa,USD,9.33,AQLT
+ABB,ABB INDIA LTD,Industrials,Equity,"44,817.98",0.02,"44,817.98",583,76.87,India,National Stock Exchange Of India,USD,93.11,AQLT
+VBL,VARUN BEVERAGES LTD,Consumer Staples,Equity,"44,574.35",0.02,"44,574.35","8,896.00",5.01,India,National Stock Exchange Of India,USD,93.11,AQLT
+RICHTER,GEDEON RICHTER,Health Care,Equity,"44,205.99",0.02,"44,205.99","1,048.00",42.18,Hungary,Budapest Stock Exchange,USD,308.19,AQLT
+CLS,CLICKS GROUP LTD,Consumer Staples,Equity,"43,981.66",0.02,"43,981.66","2,417.00",18.2,South Africa,Johannesburg Stock Exchange,USD,16.39,AQLT
+8136,SANRIO LTD,Consumer Discretionary,Equity,"42,809.22",0.02,"42,809.22","6,500.00",6.59,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+300502,EOPTOLINK TECHNOLOGY INC LTD A,Information Technology,Equity,"42,758.24",0.02,"42,758.24",500,85.52,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+CVC,CVC CAPITAL PARTNERS PLC,Financials,Equity,"42,637.43",0.02,"42,637.43","2,810.00",15.17,Netherlands,Euronext Amsterdam,USD,0.85,AQLT
+TORNTPHARM,TORRENT PHARMACEUTICALS LTD,Health Care,Equity,"41,456.25",0.02,"41,456.25",921,45.01,India,National Stock Exchange Of India,USD,93.11,AQLT
+INDUSTOWER,INDUS TOWERS LTD,Communication,Equity,"41,080.10",0.02,"41,080.10","9,426.00",4.36,India,National Stock Exchange Of India,USD,93.11,AQLT
+7203,AL-ELM INFORMATION SECURITY COMPAN,Information Technology,Equity,"40,774.08",0.02,"40,774.08",259,157.43,Saudi Arabia,Saudi Stock Exchange,USD,3.75,AQLT
+1590,AIRTAC INTERNATIONAL GROUP,Industrials,Equity,"40,497.40",0.02,"40,497.40","1,000.00",40.5,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+601899,ZIJIN MINING GROUP LTD A,Materials,Equity,"40,349.40",0.02,"40,349.40","7,900.00",5.11,China,Shanghai Stock Exchange,USD,6.82,AQLT
+MARICO,MARICO LTD,Consumer Staples,Equity,"40,260.22",0.02,"40,260.22","4,928.00",8.17,India,National Stock Exchange Of India,USD,93.11,AQLT
+ADNOCGAS,ADNOC GAS PLC,Energy,Equity,"39,808.78",0.02,"39,808.78","45,840.00",0.87,United Arab Emirates,Abu Dhabi Securities Exchange,USD,3.67,AQLT
+DNP,DINO POLSKA SA,Consumer Staples,Equity,"39,176.43",0.02,"39,176.43","4,020.00",9.75,Poland,Warsaw Stock Exchange/Equities/Main Market,USD,3.6,AQLT
+168,TSINGTAO BREWERY LTD H,Consumer Staples,Equity,"38,960.29",0.02,"38,960.29","6,000.00",6.49,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+WIPRO,WIPRO LTD,Information Technology,Equity,"38,844.41",0.02,"38,844.41","17,863.00",2.17,India,National Stock Exchange Of India,USD,93.11,AQLT
+DIXON,DIXON TECHNOLOGIES (INDIA) LTD,Consumer Discretionary,Equity,"38,288.07",0.02,"38,288.07",318,120.4,India,National Stock Exchange Of India,USD,93.11,AQLT
+OMAB,GRUPO AEROPORTUARIO DEL CENTRO NOR,Industrials,Equity,"37,900.58",0.02,"37,900.58","2,592.00",14.62,Mexico,Bolsa Mexicana De Valores,USD,17.34,AQLT
+EMAARDEV,EMAAR DEVELOPMENT,Real Estate,Equity,"37,415.51",0.02,"37,415.51","9,042.00",4.14,United Arab Emirates,Dubai Financial Market,USD,3.67,AQLT
+MBK,MBANK SA,Financials,Equity,"36,939.55",0.02,"36,939.55",106,348.49,Poland,Warsaw Stock Exchange/Equities/Main Market,USD,3.6,AQLT
+POLYCAB,POLYCAB INDIA LTD,Industrials,Equity,"36,628.55",0.02,"36,628.55",416,88.05,India,National Stock Exchange Of India,USD,93.11,AQLT
+VIPS,VIPSHOP HOLDINGS SPONSORED ADS REP,Consumer Discretionary,Equity,"35,986.68",0.02,"35,986.68","2,349.00",15.32,China,NYSE,USD,1,AQLT
+ADNOCDRILL,ADNOC DRILLING COMPANY,Energy,Equity,"35,797.99",0.02,"35,797.99","25,047.00",1.43,United Arab Emirates,Abu Dhabi Securities Exchange,USD,3.67,AQLT
+ICICIGI,ICICI LOMBARD GENERAL INSURANCE CO,Financials,Equity,"35,489.50",0.01,"35,489.50","1,761.00",20.15,India,National Stock Exchange Of India,USD,93.11,AQLT
+3606,FUYAO GLASS INDUSTRY GROUP LTD H,Consumer Discretionary,Equity,"35,397.55",0.01,"35,397.55","4,400.00",8.04,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+RAA,RATIONAL AG,Industrials,Equity,"35,401.61",0.01,"35,401.61",44,804.58,Germany,Xetra,USD,0.85,AQLT
+SOLARINDS,SOLAR INDUSTRIES INDIA LTD,Materials,Equity,"35,381.36",0.01,"35,381.36",221,160.1,India,National Stock Exchange Of India,USD,93.11,AQLT
+LOTB,LOTUS BAKERIES NV,Consumer Staples,Equity,"35,208.56",0.01,"35,208.56",3,"11,736.18",Belgium,Nyse Euronext - Euronext Brussels,USD,0.85,AQLT
+291,CHINA RESOURCES BEER HOLDINGS LTD,Consumer Staples,Equity,"34,834.41",0.01,"34,834.41","10,500.00",3.32,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+2395,ADVANTECH LTD,Information Technology,Equity,"34,637.19",0.01,"34,637.19","3,000.00",11.55,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+OUT,OUTSURANCE GROUP LTD,Financials,Equity,"34,656.90",0.01,"34,656.90","7,780.00",4.45,South Africa,Johannesburg Stock Exchange,USD,16.39,AQLT
+HYUNDAI,HYUNDAI MOTOR INDIA LTD,Consumer Discretionary,Equity,"34,231.06",0.01,"34,231.06","1,690.00",20.26,India,National Stock Exchange Of India,USD,93.11,AQLT
+2259,ZIJIN GOLD INTERNATIONAL LTD,Materials,Equity,"33,999.27",0.01,"33,999.27","1,500.00",22.67,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+PIDILITIND,PIDILITE INDUSTRIES LTD,Materials,Equity,"33,719.95",0.01,"33,719.95","2,258.00",14.93,India,National Stock Exchange Of India,USD,93.11,AQLT
+VER,VERBUND AG,Utilities,Equity,"33,276.62",0.01,"33,276.62",448,74.28,Austria,Wiener Boerse Ag,USD,0.85,AQLT
+COLPAL,COLGATE PALMOLIVE INDIA LTD,Consumer Staples,Equity,"32,902.47",0.01,"32,902.47","1,439.00",22.86,India,National Stock Exchange Of India,USD,93.11,AQLT
+NEM,NEMETSCHEK,Information Technology,Equity,"32,564.68",0.01,"32,564.68",416,78.28,Germany,Xetra,USD,0.85,AQLT
+300,MIDEA GROUP LTD CLASS H,Consumer Discretionary,Equity,"32,286.86",0.01,"32,286.86","2,800.00",11.53,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+EVD,CTS EVENTIM AG,Communication,Equity,"31,704.18",0.01,"31,704.18",460,68.92,Germany,Xetra,USD,0.85,AQLT
+CMIG4,CIA ENERGETICA DE MINAS GERAIS PRE,Utilities,Equity,"31,553.78",0.01,"31,553.78","11,456.00",2.75,Brazil,XBSP,USD,4.98,AQLT
+1519,FORTUNE ELECTRIC LTD,Industrials,Equity,"31,130.59",0.01,"31,130.59","1,100.00",28.3,Taiwan,Taiwan Stock Exchange,USD,31.48,AQLT
+3092,ZOZO INC,Consumer Discretionary,Equity,"31,107.12",0.01,"31,107.12","4,600.00",6.76,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+8210,BUPA ARABIA,Financials,Equity,"30,939.83",0.01,"30,939.83",638,48.5,Saudi Arabia,Saudi Stock Exchange,USD,3.75,AQLT
+1209,CHINA RESOURCES MIXC LIFESTYLE SER,Real Estate,Equity,"30,647.23",0.01,"30,647.23","5,000.00",6.13,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+EUR,EUR CASH,Cash and/or Derivatives,Cash,"29,751.47",0.01,"29,751.47","25,274.00",117.71,European Union,--,USD,0.85,AQLT
+APLAPOLLO,APL APOLLO TUBES LTD,Materials,Equity,"29,241.54",0.01,"29,241.54","1,270.00",23.02,India,National Stock Exchange Of India,USD,93.11,AQLT
+UNTR,UNITED TRACTORS,Energy,Equity,"29,078.63",0.01,"29,078.63","15,800.00",1.84,Indonesia,Indonesia Stock Exchange,USD,"17,170.00",AQLT
+LTM,LTM LTD,Information Technology,Equity,"28,868.37",0.01,"28,868.37",570,50.65,India,National Stock Exchange Of India,USD,93.11,AQLT
+4768,OTSUKA CORP,Information Technology,Equity,"28,800.91",0.01,"28,800.91","1,500.00",19.2,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+000858,WULIANGYE YIBIN LTD A,Consumer Staples,Equity,"28,246.11",0.01,"28,246.11","1,900.00",14.87,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+UNITDSPR,UNITED SPIRITS LTD,Consumer Staples,Equity,"28,200.96",0.01,"28,200.96","2,008.00",14.04,India,National Stock Exchange Of India,USD,93.11,AQLT
+ALWN,ALLWYN AG,Consumer Discretionary,Equity,"27,624.49",0.01,"27,624.49","1,723.00",16.03,Greece,Athens Exchange S.A. Cash Market,USD,0.85,AQLT
+003230,SAM YANG FOODS INC,Consumer Staples,Equity,"27,031.99",0.01,"27,031.99",29,932.14,Korea (South),Korea Exchange (Stock Market),USD,"1,477.25",AQLT
+HTO,HELLENIC TELECOMMUNICATIONS ORGANI,Communication,Equity,"26,967.73",0.01,"26,967.73","1,282.00",21.04,Greece,Athens Exchange S.A. Cash Market,USD,0.85,AQLT
+BDX,BUDIMEX SA,Industrials,Equity,"26,780.88",0.01,"26,780.88",133,201.36,Poland,Warsaw Stock Exchange/Equities/Main Market,USD,3.6,AQLT
+BELA,JUMBO SA,Consumer Discretionary,Equity,"26,071.52",0.01,"26,071.52",904,28.84,Greece,Athens Exchange S.A. Cash Market,USD,0.85,AQLT
+SIEMENS,SIEMENS LTD,Industrials,Equity,"25,692.63",0.01,"25,692.63",645,39.83,India,National Stock Exchange Of India,USD,93.11,AQLT
+PAGEIND,PAGE INDUSTRIES LTD,Consumer Discretionary,Equity,"25,572.40",0.01,"25,572.40",62,412.46,India,National Stock Exchange Of India,USD,93.11,AQLT
+300394,SUZHOU TFC OPTICAL COMMUNICATION L,Information Technology,Equity,"25,269.16",0.01,"25,269.16",460,54.93,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+ADNOCDIST,ABU DHABI NATIONAL OIL COMPANY FOR,Consumer Discretionary,Equity,"25,086.46",0.01,"25,086.46","24,508.00",1.02,United Arab Emirates,Abu Dhabi Securities Exchange,USD,3.67,AQLT
+3064,MONOTARO LTD,Industrials,Equity,"24,459.98",0.01,"24,459.98","2,100.00",11.65,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+HAVELLS,HAVELLS INDIA LTD,Industrials,Equity,"24,388.37",0.01,"24,388.37","1,744.00",13.98,India,National Stock Exchange Of India,USD,93.11,AQLT
+4716,ORACLE JAPAN CORP,Information Technology,Equity,"23,950.36",0.01,"23,950.36",400,59.88,Japan,Tokyo Stock Exchange,USD,158.75,AQLT
+BH.R,BUMRUNGRAD HOSPITAL NON-VOTING DR,Health Care,Equity,"23,453.33",0.01,"23,453.33","4,300.00",5.45,Thailand,Stock Exchange Of Thailand,USD,32.09,AQLT
+603993,CHINA MOLYBDENUM LTD A,Materials,Equity,"23,454.10",0.01,"23,454.10","7,900.00",2.97,China,Shanghai Stock Exchange,USD,6.82,AQLT
+3998,BOSIDENG INTERNATIONAL LTD,Consumer Discretionary,Equity,"22,901.14",0.01,"22,901.14","42,000.00",0.55,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+322,TINGYI (CAYMAN ISLANDS) HOLDINGS C,Consumer Staples,Equity,"22,704.49",0.01,"22,704.49","14,000.00",1.62,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+CXSE3,CAIXA SEGURIDADE PARTICIPACOES SA,Financials,Equity,"22,485.47",0.01,"22,485.47","5,890.00",3.82,Brazil,XBSP,USD,4.98,AQLT
+300015,AIER EYE HOSPITAL GROUP LTD A,Health Care,Equity,"22,411.18",0.01,"22,411.18","15,800.00",1.42,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+SEK,SEK CASH,Cash and/or Derivatives,Cash,"22,269.30",0.01,"22,269.30","203,727.00",10.93,Sweden,--,USD,9.15,AQLT
+MER,MANILA ELECTRIC,Utilities,Equity,"22,167.93",0.01,"22,167.93","2,110.00",10.51,Philippines,Philippine Stock Exchange Inc.,USD,59.97,AQLT
+1929,CHOW TAI FOOK JEWELLERY GROUP LTD,Consumer Discretionary,Equity,"22,111.98",0.01,"22,111.98","14,800.00",1.49,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+NMDC,NMDC LTD,Materials,Equity,"22,062.57",0.01,"22,062.57","23,108.00",0.95,India,National Stock Exchange Of India,USD,93.11,AQLT
+4190,JARIR MARKETING,Consumer Discretionary,Equity,"21,963.27",0.01,"21,963.27","5,463.00",4.02,Saudi Arabia,Saudi Stock Exchange,USD,3.75,AQLT
+ROCK B,ROCKWOOL CLASS B,Industrials,Equity,"21,183.11",0.01,"21,183.11",690,30.7,Denmark,Omx Nordic Exchange Copenhagen A/S,USD,6.35,AQLT
+GRUMAB,GRUMA,Consumer Staples,Equity,"20,218.20",0.01,"20,218.20","1,150.00",17.58,Mexico,Bolsa Mexicana De Valores,USD,17.34,AQLT
+ALKEM,ALKEM LABORATORIES LTD,Health Care,Equity,"20,056.40",0.01,"20,056.40",331,60.59,India,National Stock Exchange Of India,USD,93.11,AQLT
+NESTLE,NESTLE MALAYSIA,Consumer Staples,Equity,"19,833.04",0.01,"19,833.04",800,24.79,Malaysia,Bursa Malaysia,USD,3.95,AQLT
+BOSCHLTD,BOSCH LTD,Consumer Discretionary,Equity,"19,480.95",0.01,"19,480.95",48,405.85,India,National Stock Exchange Of India,USD,93.11,AQLT
+8010,THE COOPERATIVE INSURANCE,Financials,Equity,"19,363.89",0.01,"19,363.89",560,34.58,Saudi Arabia,Saudi Stock Exchange,USD,3.75,AQLT
+2268,WUXI XDC CAYMAN INC,Health Care,Equity,"19,314.14",0.01,"19,314.14","2,500.00",7.73,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+443060,HD HYUNDAI MARINE SOLUTION LTD,Industrials,Equity,"19,076.53",0.01,"19,076.53",144,132.48,Korea (South),Korea Exchange (Stock Market),USD,"1,477.25",AQLT
+MPHASIS,MPHASIS LTD,Information Technology,Equity,"18,871.35",0.01,"18,871.35",727,25.96,India,National Stock Exchange Of India,USD,93.11,AQLT
+ZAR,ZAR CASH,Cash and/or Derivatives,Cash,"18,766.37",0.01,"18,766.37","307,534.00",6.1,South Africa,--,USD,16.39,AQLT
+300760,SHENZHEN MINDRAY BIO-MEDICAL ELECT,Health Care,Equity,"18,552.53",0.01,"18,552.53",800,23.19,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+SUPREMEIND,SUPREME INDUSTRIES LTD,Industrials,Equity,"18,217.67",0.01,"18,217.67",457,39.86,India,National Stock Exchange Of India,USD,93.11,AQLT
+COROMANDEL,COROMANDEL INTERNATIONAL LTD,Materials,Equity,"18,205.86",0.01,"18,205.86",817,22.28,India,National Stock Exchange Of India,USD,93.11,AQLT
+DABUR,DABUR INDIA LTD,Consumer Staples,Equity,"17,902.81",0.01,"17,902.81","3,774.00",4.74,India,National Stock Exchange Of India,USD,93.11,AQLT
+PIIND,P.I. INDUSTRIES LTD,Materials,Equity,"17,482.42",0.01,"17,482.42",536,32.62,India,National Stock Exchange Of India,USD,93.11,AQLT
+OFSS,ORACLE FINANCIAL SERVICES SOFTWARE,Information Technology,Equity,"17,187.11",0.01,"17,187.11",198,86.8,India,National Stock Exchange Of India,USD,93.11,AQLT
+ZYDUSLIFE,ZYDUS LIFESCIENCES LTD,Health Care,Equity,"16,917.09",0.01,"16,917.09","1,682.00",10.06,India,National Stock Exchange Of India,USD,93.11,AQLT
+CPFE3,CPFL ENERGIA SA,Utilities,Equity,"16,776.59",0.01,"16,776.59","1,509.00",11.12,Brazil,XBSP,USD,4.98,AQLT
+PETRONET,PETRONET LNG LTD,Energy,Equity,"16,483.43",0.01,"16,483.43","5,640.00",2.92,India,National Stock Exchange Of India,USD,93.11,AQLT
+6181,LAOPU GOLD LTD H,Consumer Discretionary,Equity,"16,179.18",0.01,"16,179.18",200,80.9,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+000333,MIDEA GROUP LTD A,Consumer Discretionary,Equity,"16,062.15",0.01,"16,062.15","1,376.00",11.67,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+300274,SUNGROW POWER SUPPLY LTD A,Industrials,Equity,"15,865.29",0.01,"15,865.29",800,19.83,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+MRDIY,MR D.I.Y. GROUP (M),Consumer Discretionary,Equity,"15,887.93",0.01,"15,887.93","39,500.00",0.4,Malaysia,Bursa Malaysia,USD,3.95,AQLT
+7202,ARABIAN INTERNET AND COMMUNICATION,Information Technology,Equity,"15,260.07",0.01,"15,260.07",259,58.92,Saudi Arabia,Saudi Stock Exchange,USD,3.75,AQLT
+300033,HITHINK ROYALFLUSH INFORMATION NET,Financials,Equity,"15,185.53",0.01,"15,185.53",420,36.16,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+300476,VICTORY GIANT TECHNOLOGY HUIZHOU L,Information Technology,Equity,"15,093.73",0.01,"15,093.73",300,50.31,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+4263,SAL SAUDI LOGISTICS SERVICE CO,Industrials,Equity,"14,852.57",0.01,"14,852.57",335,44.34,Saudi Arabia,Saudi Stock Exchange,USD,3.75,AQLT
+601225,SHAANXI COAL INDUSTRY LTD A,Energy,Equity,"14,746.38",0.01,"14,746.38","4,100.00",3.6,China,Shanghai Stock Exchange,USD,6.82,AQLT
+603259,WUXI APPTEC LTD A,Health Care,Equity,"14,633.14",0.01,"14,633.14","1,000.00",14.63,China,Shanghai Stock Exchange,USD,6.82,AQLT
+600809,SHANXI XINGHUACUN FEN WINE FACTORY,Consumer Staples,Equity,"14,258.96",0.01,"14,258.96",700,20.37,China,Shanghai Stock Exchange,USD,6.82,AQLT
+ASTRAL,ASTRAL LTD,Industrials,Equity,"13,929.29",0.01,"13,929.29",815,17.09,India,National Stock Exchange Of India,USD,93.11,AQLT
+4002,AL MOUWASAT MEDICAL SERVICES,Health Care,Equity,"13,896.26",0.01,"13,896.26",729,19.06,Saudi Arabia,Saudi Stock Exchange,USD,3.75,AQLT
+1585,YADEA GROUP HOLDINGS LTD,Consumer Discretionary,Equity,"13,086.37",0.01,"13,086.37","8,000.00",1.64,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+603288,FOSHAN HAI TIAN FLAVOURING & FOOD,Consumer Staples,Equity,"13,001.73",0.01,"13,001.73","2,200.00",5.91,China,Shanghai Stock Exchange,USD,6.82,AQLT
+002463,WUS PRINTED CIRCUIT (KUNSHAN) LTD,Information Technology,Equity,"12,937.48",0.01,"12,937.48",900,14.37,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+1111,SAUDI TADAWUL GROUP CO,Financials,Equity,"12,529.39",0.01,"12,529.39",323,38.79,Saudi Arabia,Saudi Stock Exchange,USD,3.75,AQLT
+9896,MINISO GROUP HOLDING LTD,Consumer Discretionary,Equity,"12,512.24",0.01,"12,512.24","3,200.00",3.91,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+2367,GIANT BIOGENE HOLDING LTD,Consumer Staples,Equity,"12,119.96",0.01,"12,119.96","3,200.00",3.79,China,Hong Kong Exchanges And Clearing Ltd,USD,7.83,AQLT
+AMRT,PT SUMBER ALFARIA TRIJAYA,Consumer Staples,Equity,"12,091.56",0.01,"12,091.56","142,200.00",0.09,Indonesia,Indonesia Stock Exchange,USD,"17,170.00",AQLT
+000568,LUZHOU LAO JIAO LTD A,Consumer Staples,Equity,"11,810.95",0,"11,810.95",800,14.76,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+002371,NAURA TECHNOLOGY GROUP LTD A,Information Technology,Equity,"11,750.68",0,"11,750.68",170,69.12,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+THB,THB CASH,Cash and/or Derivatives,Cash,"10,798.74",0,"10,798.74","346,478.00",3.12,Thailand,--,USD,32.09,AQLT
+PETDAG,PETRONAS DAGANGAN,Consumer Discretionary,Equity,"10,731.09",0,"10,731.09","2,100.00",5.11,Malaysia,Bursa Malaysia,USD,3.95,AQLT
+AUD,AUD CASH,Cash and/or Derivatives,Cash,"9,164.42",0,"9,164.42","12,796.00",71.62,Australia,--,USD,1.4,AQLT
+605499,EASTROC BEVERAGE (GROUP) LTD A,Consumer Staples,Equity,"8,964.27",0,"8,964.27",300,29.88,China,Shanghai Stock Exchange,USD,6.82,AQLT
+AED,AED CASH,Cash and/or Derivatives,Cash,"8,927.14",0,"8,927.14","32,792.00",27.22,United Arab Emirates,--,USD,3.67,AQLT
+600436,ZHANGZHOU PIENTZEHUANG PHARMACEUTI,Health Care,Equity,"8,512.34",0,"8,512.34",400,21.28,China,Shanghai Stock Exchange,USD,6.82,AQLT
+300628,YEALINK NETWORK TECHNOLOGY LTD A,Information Technology,Equity,"8,432.54",0,"8,432.54","1,600.00",5.27,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+DKK,DKK CASH,Cash and/or Derivatives,Cash,"8,328.66",0,"8,328.66","52,874.00",15.75,Denmark,--,USD,6.35,AQLT
+EAST,EASTERN CO.,Consumer Staples,Equity,"7,233.46",0,"7,233.46","9,418.00",0.77,Egypt,Egyptian Exchange,USD,51.95,AQLT
+002027,FOCUS MEDIA INFORMATION TECHNOLOGY,Communication,Equity,"7,184.56",0,"7,184.56","7,900.00",0.91,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+605117,NINGBO DEYE TECHNOLOGY LTD A,Industrials,Equity,"7,135.24",0,"7,135.24",340,20.99,China,Shanghai Stock Exchange,USD,6.82,AQLT
+000651,GREE ELECTRIC APPLIANCES INC OF ZH,Consumer Discretionary,Equity,"6,502.19",0,"6,502.19","1,200.00",5.42,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+MXN,MXN CASH,Cash and/or Derivatives,Cash,"6,361.44",0,"6,361.44","110,334.00",5.77,Mexico,--,USD,17.34,AQLT
+300832,SHENZHEN NEW INDUSTRIES BIOMEDICAL,Health Care,Equity,"5,984.25",0,"5,984.25",900,6.65,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+IDR,IDR CASH,Cash and/or Derivatives,Cash,"5,891.26",0,"5,891.26","101,152,976.00",0.01,Indonesia,--,USD,"17,170.00",AQLT
+688188,SHANGHAI FRIENDESS ELECTRONICS TEC,Information Technology,Equity,"5,892.51",0,"5,892.51",280,21.04,China,Shanghai Stock Exchange,USD,6.82,AQLT
+600660,FUYAO GLASS INDUSTRY GROUP LTD A,Consumer Discretionary,Equity,"5,294.69",0,"5,294.69",600,8.82,China,Shanghai Stock Exchange,USD,6.82,AQLT
+300866,ANKER INNOVATIONS TECHNOLOGY LTD A,Information Technology,Equity,"5,149.03",0,"5,149.03",300,17.16,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+NOK,NOK CASH,Cash and/or Derivatives,Cash,"4,975.24",0,"4,975.24","46,441.00",10.71,Norway,--,USD,9.33,AQLT
+000975,SHANJIN INTERNATIONAL GOLD LTD A,Materials,Equity,"4,900.26",0,"4,900.26","1,100.00",4.45,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+601100,JIANGSU HENGLI HYDRAULIC LTD A,Industrials,Equity,"4,546.60",0,"4,546.60",300,15.16,China,Shanghai Stock Exchange,USD,6.82,AQLT
+600845,SHANGHAI BAOSIGHT SOFTWARE LTD A,Information Technology,Equity,"4,016.78",0,"4,016.78","1,200.00",3.35,China,Shanghai Stock Exchange,USD,6.82,AQLT
+BRL,BRL CASH,Cash and/or Derivatives,Cash,"3,599.78",0,"3,599.78","17,944.00",20.06,Brazil,--,USD,4.98,AQLT
+300896,IMEIK TECHNOLOGY DEVELOPMENT LTD A,Health Care,Equity,"3,371.08",0,"3,371.08",200,16.86,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+002920,HUIZHOU DESAY SV AUTOMOTIVE LTD A,Consumer Discretionary,Equity,"3,136.68",0,"3,136.68",200,15.68,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+000596,ANHUI GUJING DISTILLERY LTD A,Consumer Staples,Equity,"3,109.69",0,"3,109.69",200,15.55,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+603195,GONEO GROUP LTD A,Industrials,Equity,"3,046.62",0,"3,046.62",500,6.09,China,Shanghai Stock Exchange,USD,6.82,AQLT
+CAD,CAD CASH,Cash and/or Derivatives,Cash,"2,913.19",0,"2,913.19","3,980.00",73.19,Canada,--,USD,1.37,AQLT
+002555,37 INTERACTIVE ENTERTAINMENT NETWO,Communication,Equity,"2,884.53",0,"2,884.53",900,3.21,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+688578,SHANGHAI ALLIST PHARMACEUTICALS LT,Health Care,Equity,"2,827.76",0,"2,827.76",200,14.14,China,Shanghai Stock Exchange,USD,6.82,AQLT
+600406,NARI TECHNOLOGY LTD A,Industrials,Equity,"2,796.96",0,"2,796.96",700,4,China,Shanghai Stock Exchange,USD,6.82,AQLT
+NZD,NZD CASH,Cash and/or Derivatives,Cash,"2,664.44",0,"2,664.44","4,528.00",58.84,New Zealand,--,USD,1.7,AQLT
+000999,CHINA RESOURCES SANJIU MEDICAL AND,Health Care,Equity,"2,544.99",0,"2,544.99",630,4.04,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+002001,ZHEJIANG NHU LTD A,Materials,Equity,"2,515.62",0,"2,515.62",500,5.03,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+603568,ZHEJIANG WEIMING ENVIRONMENT PROTE,Industrials,Equity,"2,183.97",0,"2,183.97",700,3.12,China,Shanghai Stock Exchange,USD,6.82,AQLT
+TRY,TRY CASH,Cash and/or Derivatives,Cash,"1,797.58",0,"1,797.58","80,663.00",2.23,Turkey,--,USD,44.87,AQLT
+603369,JIANGSU KINGS LUCK BREWERY LTD A,Consumer Staples,Equity,"1,788.00",0,"1,788.00",471,3.8,China,Shanghai Stock Exchange,USD,6.82,AQLT
+HKD,HKD CASH,Cash and/or Derivatives,Cash,"1,296.81",0,"1,296.81","10,155.00",12.77,Hong Kong,--,USD,7.83,AQLT
+INR,INR CASH,Cash and/or Derivatives,Cash,894.3,0,894.3,"83,270.00",1.07,India,--,USD,93.11,AQLT
+SGD,SGD CASH,Cash and/or Derivatives,Cash,765.49,0,765.49,973,78.69,Singapore,--,USD,1.27,AQLT
+MYR,MYR CASH,Cash and/or Derivatives,Cash,637.37,0,637.37,"2,520.00",25.3,Malaysia,--,USD,3.95,AQLT
+CNH,CNH CASH,Cash and/or Derivatives,Cash,608.16,0,608.16,"4,146.00",14.67,China,--,USD,6.82,AQLT
+PHP,PHP CASH,Cash and/or Derivatives,Cash,453.48,0,453.48,"27,193.00",1.67,Philippines,--,USD,59.97,AQLT
+002517,KINGNET NETWORK LTD A,Communication,Equity,216.34,0,216.34,83,2.61,China,Shenzhen Stock Exchange,USD,6.82,AQLT
+PLN,PLN CASH,Cash and/or Derivatives,Cash,52.22,0,52.22,188,27.81,Poland,--,USD,3.6,AQLT
+ILS,ILS CASH,Cash and/or Derivatives,Cash,12.33,0,12.33,37,33.46,Israel,--,USD,2.99,AQLT
+HUF,HUF CASH,Cash and/or Derivatives,Cash,14.29,0,14.29,"4,403.00",0.32,Hungary,--,USD,308.19,AQLT
+KRW,KRW/USD,Cash and/or Derivatives,FX,14.2,0,14.2,"6,523,749.00",1,United States,--,USD,"1,477.30",AQLT
+TWD,TWD/USD,Cash and/or Derivatives,FX,-1.95,0,-1.95,"1,324,716.00",1,United States,--,USD,31.49,AQLT
+SAR,SAR/USD,Cash and/or Derivatives,FX,-1.39,0,-1.39,"15,949.00",1,United States,--,USD,3.75,AQLT
+AED,AED/USD,Cash and/or Derivatives,FX,-1.04,0,-1.04,"7,723.00",1,United States,--,USD,3.67,AQLT
+SAR,SAR/USD,Cash and/or Derivatives,FX,-0.66,0,-0.66,"7,575.00",1,United States,--,USD,3.75,AQLT
+AED,AED/USD,Cash and/or Derivatives,FX,-0.45,0,-0.45,"3,326.00",1,United States,--,USD,3.67,AQLT
+JPY,JPY/USD,Cash and/or Derivatives,FX,-0.4,0,-0.4,"10,010,545.00",1,United States,--,USD,158.75,AQLT
+SAR,SAR/USD,Cash and/or Derivatives,FX,-0.26,0,-0.26,"2,994.00",1,United States,--,USD,3.75,AQLT
+AED,AED/USD,Cash and/or Derivatives,FX,-0.25,0,-0.25,"1,884.00",1,United States,--,USD,3.67,AQLT
+AED,AED/USD,Cash and/or Derivatives,FX,-0.24,0,-0.24,"1,783.00",1,United States,--,USD,3.67,AQLT
+AED,AED/USD,Cash and/or Derivatives,FX,-0.23,0,-0.23,"1,700.00",1,United States,--,USD,3.67,AQLT
+EGP,EGP/USD,Cash and/or Derivatives,FX,-0.23,0,-0.23,"4,763.00",1,United States,--,USD,51.95,AQLT
+AED,AED/USD,Cash and/or Derivatives,FX,-0.16,0,-0.16,"1,175.00",1,United States,--,USD,3.67,AQLT
+SAR,SAR/USD,Cash and/or Derivatives,FX,-0.16,0,-0.16,"1,776.00",1,United States,--,USD,3.75,AQLT
+SAR,SAR/USD,Cash and/or Derivatives,FX,-0.13,0,-0.13,"1,459.00",1,United States,--,USD,3.75,AQLT
+SAR,SAR/USD,Cash and/or Derivatives,FX,-0.09,0,-0.09,"1,043.00",1,United States,--,USD,3.75,AQLT
+SAR,SAR/USD,Cash and/or Derivatives,FX,-0.08,0,-0.08,910,1,United States,--,USD,3.75,AQLT
+SAR,SAR/USD,Cash and/or Derivatives,FX,-0.06,0,-0.06,667,1,United States,--,USD,3.75,AQLT
+SAR,SAR/USD,Cash and/or Derivatives,FX,-0.06,0,-0.06,645,1,United States,--,USD,3.75,AQLT
+SAR,SAR/USD,Cash and/or Derivatives,FX,-0.06,0,-0.06,665,1,United States,--,USD,3.75,AQLT
+SAR,SAR/USD,Cash and/or Derivatives,FX,-0.05,0,-0.05,583,1,United States,--,USD,3.75,AQLT
+MYR,MYR/USD,Cash and/or Derivatives,FX,0.06,0,0.06,780,1,United States,--,USD,3.95,AQLT
+PHP,PHP/USD,Cash and/or Derivatives,FX,0.3,0,0.3,"12,920.00",1,United States,--,USD,59.97,AQLT
+MZTM6,MICRO EURO STOXX JUN 26,Cash and/or Derivatives,Futures,0,0,"118,708.51",17,"6,982.85",--,Eurex Deutschland,USD,0.85,AQLT
+HWAM6,MICRO EMINI S&P 500 JUN 26,Cash and/or Derivatives,Futures,0,0,"464,620.00",13,"7,148.00",--,Index And Options Market,USD,1,AQLT
+BRL,BRL/USD,Cash and/or Derivatives,FX,-16,0,-16,"58,471.00",1,United States,--,USD,4.98,AQLT
+EGP,EGP CASH,Cash and/or Derivatives,Cash,-91.68,0,-91.68,"-4,763.00",1.92,Egypt,--,USD,51.95,AQLT
+KRW,KRW CASH,Cash and/or Derivatives,Cash,-420.35,0,-420.35,"-620,962.00",0.07,Korea (South),--,USD,"1,477.25",AQLT
+SAR,SAR CASH(COMMITTED),Cash and/or Derivatives,Cash,"-7,700.70",0,"-7,700.70","-28,885.00",26.66,Saudi Arabia,--,USD,3.75,AQLT
+JPY,JPY CASH,Cash and/or Derivatives,Cash,"-20,600.21",-0.01,"-20,600.21","-3,270,180.00",0.63,Japan,--,USD,158.75,AQLT
+TWD,TWD CASH,Cash and/or Derivatives,Cash,"-33,726.40",-0.01,"-33,726.40","-1,061,825.00",3.18,Taiwan,--,USD,31.48,AQLT

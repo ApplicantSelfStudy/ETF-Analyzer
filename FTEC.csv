@@ -1,0 +1,271 @@
+﻿Symbol,Company,Weight,ETF
+NVDA,NVIDIA Corp,18.25,FTEC
+AAPL,Apple Inc,16.02,FTEC
+MSFT,Microsoft Corp,10.29,FTEC
+AVGO,Broadcom Inc,4.32,FTEC
+MU,Micron Technology Inc,2.01,FTEC
+AMD,Advanced Micro Devices Inc,1.76,FTEC
+CSCO,Cisco Systems Inc,1.72,FTEC
+PLTR,Palantir Technologies Inc Ordinary Shares - Class A,1.7,FTEC
+AMAT,Applied Materials Inc,1.45,FTEC
+LRCX,Lam Research Corp,1.42,FTEC
+ORCL,Oracle Corp,1.29,FTEC
+IBM,International Business Machines Corp,1.25,FTEC
+INTC,Intel Corp,1.06,FTEC
+KLAC,KLA Corp,1.06,FTEC
+CRM,Salesforce Inc,0.99,FTEC
+TXN,Texas Instruments Inc,0.97,FTEC
+ADI,Analog Devices Inc,0.87,FTEC
+APH,Amphenol Corp Class A,0.85,FTEC
+QCOM,Qualcomm Inc,0.8,FTEC
+ANET,Arista Networks Inc,0.74,FTEC
+PANW,Palo Alto Networks Inc,0.73,FTEC
+ACN,Accenture PLC Class A,0.71,FTEC
+INTU,Intuit Inc,0.69,FTEC
+GLW,Corning Inc,0.65,FTEC
+NOW,ServiceNow Inc,0.62,FTEC
+ADBE,Adobe Inc,0.6,FTEC
+CRWD,CrowdStrike Holdings Inc Class A,0.57,FTEC
+WDC,Western Digital Corp,0.54,FTEC
+APP,AppLovin Corp Ordinary Shares - Class A,0.52,FTEC
+SNDK,SanDisk Corp Ordinary Shares,0.51,FTEC
+STX,Seagate Technology Holdings PLC,0.5,FTEC
+MRVL,Marvell Technology Inc,0.49,FTEC
+CDNS,Cadence Design Systems Inc,0.45,FTEC
+MSI,Motorola Solutions Inc,0.45,FTEC
+SNPS,Synopsys Inc,0.44,FTEC
+NET,Cloudflare Inc,0.4,FTEC
+TEL,TE Connectivity PLC Registered Shares,0.39,FTEC
+DELL,Dell Technologies Inc Ordinary Shares - Class C,0.38,FTEC
+CIEN,Ciena Corp,0.38,FTEC
+LITE,Lumentum Holdings Inc,0.35,FTEC
+KEYS,Keysight Technologies Inc,0.35,FTEC
+FTNT,Fortinet Inc,0.35,FTEC
+MPWR,Monolithic Power Systems Inc,0.33,FTEC
+ADSK,Autodesk Inc,0.33,FTEC
+SNOW,Snowflake Inc Ordinary Shares,0.32,FTEC
+NXPI,NXP Semiconductors NV,0.32,FTEC
+,Xak Technology Jun26 Xcme 20260618,0.32,FTEC
+TER,Teradyne Inc,0.31,FTEC
+,Ss Inst Treas Plus Mm Fund Tru Ss Inst Treas Plus Mm Fund Tru,0.31,FTEC
+COHR,Coherent Corp,0.27,FTEC
+ROP,Roper Technologies Inc,0.26,FTEC
+HPE,Hewlett Packard Enterprise Co,0.25,FTEC
+DDOG,Datadog Inc Class A,0.25,FTEC
+MCHP,Microchip Technology Inc,0.24,FTEC
+JBL,Jabil Inc,0.23,FTEC
+TDY,Teledyne Technologies Inc,0.23,FTEC
+CTSH,Cognizant Technology Solutions Corp Class A,0.23,FTEC
+WDAY,Workday Inc Class A,0.2,FTEC
+TWLO,Twilio Inc Class A,0.2,FTEC
+FICO,Fair Isaac Corp,0.2,FTEC
+FLEX,Flex Ltd,0.2,FTEC
+ZM,Zoom Communications Inc,0.19,FTEC
+ON,ON Semiconductor Corp,0.19,FTEC
+VRSN,VeriSign Inc,0.19,FTEC
+MSTR,Strategy Inc Class A,0.19,FTEC
+FN,Fabrinet,0.18,FTEC
+NTAP,NetApp Inc,0.18,FTEC
+FSLR,First Solar Inc,0.17,FTEC
+AKAM,Akamai Technologies Inc,0.17,FTEC
+FFIV,F5 Inc,0.16,FTEC
+MDB,MongoDB Inc Class A,0.16,FTEC
+ENTG,Entegris Inc,0.16,FTEC
+PSTG,Everpure Inc Class A,0.16,FTEC
+MKSI,MKS Inc,0.15,FTEC
+SNX,TD Synnex Corp,0.15,FTEC
+MTSI,MACOM Technology Solutions Holdings Inc,0.15,FTEC
+HPQ,HP Inc,0.15,FTEC
+OKTA,Okta Inc Class A,0.14,FTEC
+LSCC,Lattice Semiconductor Corp,0.14,FTEC
+TRMB,Trimble Inc,0.14,FTEC
+CDW,CDW Corp,0.14,FTEC
+AEIS,Advanced Energy Industries Inc,0.14,FTEC
+PTC,PTC Inc,0.14,FTEC
+VIAV,Viavi Solutions Inc,0.14,FTEC
+SLAB,Silicon Laboratories Inc,0.13,FTEC
+DT,Dynatrace Inc Ordinary Shares,0.13,FTEC
+ONTO,Onto Innovation Inc,0.13,FTEC
+IOT,Samsara Inc Ordinary Shares - Class A,0.13,FTEC
+CWAN,Clearwater Analytics Holdings Inc Class A,0.13,FTEC
+TYL,Tyler Technologies Inc,0.13,FTEC
+ALAB,Astera Labs Inc,0.13,FTEC
+CRDO,Credo Technology Group Holding Ltd,0.13,FTEC
+TTMI,TTM Technologies Inc,0.13,FTEC
+RMBS,Rambus Inc,0.12,FTEC
+ZS,Zscaler Inc,0.12,FTEC
+ARW,Arrow Electronics Inc,0.12,FTEC
+GWRE,Guidewire Software Inc,0.12,FTEC
+IT,Gartner Inc,0.12,FTEC
+CRUS,Cirrus Logic Inc,0.12,FTEC
+FORM,FormFactor Inc,0.12,FTEC
+LFUS,Littelfuse Inc,0.12,FTEC
+DOCN,DigitalOcean Holdings Inc,0.12,FTEC
+PCOR,Procore Technologies Inc,0.11,FTEC
+QRVO,Qorvo Inc,0.11,FTEC
+SMTC,Semtech Corp,0.11,FTEC
+DOCU,Docusign Inc,0.11,FTEC
+PLXS,Plexus Corp,0.11,FTEC
+GDDY,GoDaddy Inc Class A,0.11,FTEC
+HUBS,HubSpot Inc,0.11,FTEC
+SANM,Sanmina Corp,0.11,FTEC
+IDCC,InterDigital Inc,0.11,FTEC
+CGNX,Cognex Corp,0.11,FTEC
+EPAM,EPAM Systems Inc,0.11,FTEC
+SITM,SiTime Corp Ordinary Shares,0.1,FTEC
+SWKS,Skyworks Solutions Inc,0.1,FTEC
+SMCI,Super Micro Computer Inc,0.1,FTEC
+VSAT,Viasat Inc,0.1,FTEC
+AAOI,Applied Optoelectronics Inc,0.1,FTEC
+NTNX,Nutanix Inc Class A,0.1,FTEC
+AVT,Avnet Inc,0.1,FTEC
+GEN,Gen Digital Inc,0.1,FTEC
+ZBRA,Zebra Technologies Corp Ordinary Shares - Class A,0.1,FTEC
+AMKR,Amkor Technology Inc,0.1,FTEC
+NOVT,Novanta Inc,0.09,FTEC
+BSY,Bentley Systems Inc Ordinary Shares - Class B,0.09,FTEC
+ACIW,ACI Worldwide Inc,0.09,FTEC
+FROG,JFrog Ltd Ordinary Shares,0.09,FTEC
+WULF,TeraWulf Inc,0.09,FTEC
+BMI,Badger Meter Inc,0.09,FTEC
+IONQ,IonQ Inc Class A,0.09,FTEC
+HUT,Hut 8 Corp,0.09,FTEC
+OSIS,OSI Systems Inc,0.09,FTEC
+BDC,Belden Inc,0.09,FTEC
+U,Unity Software Inc Ordinary Shares,0.09,FTEC
+TEAM,Atlassian Corp Class A,0.09,FTEC
+MANH,Manhattan Associates Inc,0.09,FTEC
+PATH,UiPath Inc Class A,0.09,FTEC
+RAL,Ralliant Corp,0.09,FTEC
+VNT,Vontier Corp Ordinary Shares,0.09,FTEC
+ENPH,Enphase Energy Inc,0.09,FTEC
+ALGM,Allegro Microsystems Inc Ordinary Shares,0.08,FTEC
+VISN,Vistance Networks Inc,0.08,FTEC
+ITRI,Itron Inc,0.08,FTEC
+MIR,Mirion Technologies Inc Ordinary Shares Class A,0.08,FTEC
+ESTC,Elastic NV,0.08,FTEC
+S,SentinelOne Inc Class A,0.08,FTEC
+YOU,Clear Secure Inc Ordinary Shares Class A,0.08,FTEC
+PEGA,Pegasystems Inc,0.08,FTEC
+APLD,Applied Digital Corp,0.08,FTEC
+RIOT,Riot Platforms Inc,0.08,FTEC
+DBX,Dropbox Inc Class A,0.08,FTEC
+CIFR,Cipher Digital Inc,0.07,FTEC
+QBTS,D-Wave Quantum Inc,0.07,FTEC
+QLYS,Qualys Inc,0.07,FTEC
+BILL,BILL Holdings Inc Ordinary Shares,0.07,FTEC
+KLIC,Kulicke & Soffa Industries Inc,0.07,FTEC
+APPF,AppFolio Inc Class A,0.07,FTEC
+AUR,Aurora Innovation Inc Class A,0.07,FTEC
+BOX,Box Inc Class A,0.07,FTEC
+CORZ,Core Scientific Inc Ordinary Shares - New,0.07,FTEC
+RBRK,Rubrik Inc Class A Shares,0.07,FTEC
+OLED,Universal Display Corp,0.07,FTEC
+DLB,Dolby Laboratories Inc Class A,0.07,FTEC
+FSLY,Fastly Inc Class A,0.07,FTEC
+GTLB,GitLab Inc Class A,0.06,FTEC
+SEDG,SolarEdge Technologies Inc,0.06,FTEC
+ACLS,Axcelis Technologies Inc,0.06,FTEC
+CCC,CCC Intelligent Solutions Holdings Inc,0.06,FTEC
+WK,Workiva Inc Class A,0.06,FTEC
+QTWO,Q2 Holdings Inc,0.06,FTEC
+RGTI,Rigetti Computing Inc,0.06,FTEC
+DIOD,Diodes Inc,0.06,FTEC
+CALX,Calix Inc,0.06,FTEC
+RNG,RingCentral Inc Class A,0.06,FTEC
+ZETA,Zeta Global Holdings Corp Class A,0.06,FTEC
+POWI,Power Integrations Inc,0.06,FTEC
+MARA,MARA Holdings Inc,0.06,FTEC
+IPGP,IPG Photonics Corp,0.06,FTEC
+,Us Dollar,0.05,FTEC
+TDC,Teradata Corp,0.05,FTEC
+DXC,DXC Technology Co Registered Shs When Issued,0.05,FTEC
+CLSK,Cleanspark Inc,0.05,FTEC
+PLAB,Photronics Inc,0.05,FTEC
+SOUN,SoundHound AI Inc Ordinary Shares - Class A,0.05,FTEC
+NTCT,NetScout Systems Inc,0.05,FTEC
+KD,Kyndryl Holdings Inc Ordinary Shares,0.05,FTEC
+CVLT,CommVault Systems Inc,0.05,FTEC
+LIF,Life360 Inc Common Stock,0.05,FTEC
+SYNA,Synaptics Inc,0.05,FTEC
+PI,Impinj Inc,0.05,FTEC
+GPGI,GPGI Inc Class A,0.05,FTEC
+UCTT,Ultra Clean Holdings Inc,0.05,FTEC
+ADEA,Adeia Inc,0.05,FTEC
+LASR,nLight Inc,0.05,FTEC
+ROG,Rogers Corp,0.04,FTEC
+ASGN,ASGN Inc,0.04,FTEC
+BRZE,Braze Inc Class A,0.04,FTEC
+RAMP,LiveRamp Holdings Inc,0.04,FTEC
+DGII,Digi International Inc,0.04,FTEC
+VSH,Vishay Intertechnology Inc,0.04,FTEC
+NSIT,Insight Enterprises Inc,0.04,FTEC
+BL,BlackLine Inc,0.04,FTEC
+AGYS,Agilysys Inc,0.04,FTEC
+BHE,Benchmark Electronics Inc,0.04,FTEC
+KVYO,Klaviyo Inc Class A common stock,0.04,FTEC
+PLUS,ePlus Inc,0.04,FTEC
+ALRM,Alarm.com Holdings Inc,0.04,FTEC
+VECO,Veeco Instruments Inc,0.04,FTEC
+AMBA,Ambarella Inc,0.04,FTEC
+EXTR,Extreme Networks Inc,0.04,FTEC
+ACMR,ACM Research Inc Class A,0.04,FTEC
+CXT,Crane NXT Co,0.04,FTEC
+TENB,Tenable Holdings Inc,0.04,FTEC
+BELFB,Bel Fuse Inc Class B,0.04,FTEC
+SPSC,SPS Commerce Inc,0.04,FTEC
+VRNS,Varonis Systems Inc,0.04,FTEC
+KN,Knowles Corp,0.04,FTEC
+PRGS,Progress Software Corp,0.03,FTEC
+QUBT,Quantum Computing Inc,0.03,FTEC
+COHU,Cohu Inc,0.03,FTEC
+MXL,MaxLinear Inc,0.03,FTEC
+CTS,CTS Corp,0.03,FTEC
+NSSC,NAPCO Security Technologies Inc,0.03,FTEC
+ARLO,Arlo Technologies Inc,0.03,FTEC
+ICHR,Ichor Holdings Ltd,0.03,FTEC
+INTA,Intapp Inc,0.03,FTEC
+BLKB,Blackbaud Inc,0.03,FTEC
+NCNO,Ncino Inc Ordinary Shares,0.03,FTEC
+FRSH,Freshworks Inc Ordinary Shares Class A,0.03,FTEC
+ATEN,A10 Networks Inc,0.03,FTEC
+OS,OneStream Inc Class A common stock,0.03,FTEC
+CXM,Sprinklr Inc Class A,0.02,FTEC
+DAKT,Daktronics Inc,0.02,FTEC
+SCSC,ScanSource Inc,0.02,FTEC
+APPN,Appian Corp Class A,0.02,FTEC
+PENG,Penguin Solutions Inc,0.02,FTEC
+VYX,NCR Voyix Corp,0.02,FTEC
+OUST,Ouster Inc Ordinary Shares - Class A,0.02,FTEC
+VERX,Vertex Inc Class A,0.02,FTEC
+ADTN,Adtran Holdings Inc,0.02,FTEC
+BBAI,BigBear.ai Holdings Inc,0.02,FTEC
+PDFS,PDF Solutions Inc,0.02,FTEC
+HLIT,Harmonic Inc,0.02,FTEC
+FIVN,Five9 Inc,0.02,FTEC
+DBD,Diebold Nixdorf Inc Ordinary Shares- New,0.02,FTEC
+ALKT,Alkami Technology Inc,0.02,FTEC
+NN,NextNav Inc,0.02,FTEC
+NVTS,Navitas Semiconductor Corp Class A,0.02,FTEC
+AVPT,AvePoint Inc Ordinary Shares - Class A,0.02,FTEC
+,E-Mini Russ 2000 Jun26 Xcme 20260618,0.02,FTEC
+PRCH,Porch Group Inc Ordinary Shares - Class A,0.01,FTEC
+CEVA,CEVA Inc,0.01,FTEC
+PGY,Pagaya Technologies Ltd Class A,0.01,FTEC
+IIIV,i3 Verticals Inc,0.01,FTEC
+AOSL,Alpha & Omega Semiconductor Ltd,0.01,FTEC
+SEMR,SEMrush Holdings Inc Ordinary Shares - Class A,0.01,FTEC
+INDI,Indie Semiconductor Inc Ordinary Shares - Class A,0.01,FTEC
+NTGR,Netgear Inc,0.01,FTEC
+AMPL,Amplitude Inc Class A,0.01,FTEC
+DJCO,Daily Journal Corp,0.01,FTEC
+EVLV,Evolv Technologies Holdings Inc Ordinary Shares - Class A,0.01,FTEC
+CNXN,PC Connection Inc,0.01,FTEC
+BTBT,Bit Digital Inc Ordinary Shares,0.01,FTEC
+YEXT,Yext Inc,0.01,FTEC
+GDYN,Grid Dynamics Holdings Inc Ordinary Shares Class A,0.01,FTEC
+NABL,N-able Inc,0.01,FTEC
+AIOT,PowerFleet Inc,0.01,FTEC
+BLND,Blend Labs Inc Ordinary Shares - Class A,0.01,FTEC
+HCKT,The Hackett Group Inc,0.01,FTEC
+CRSR,Corsair Gaming Inc Ordinary Shares,0.01,FTEC
