@@ -23,7 +23,7 @@ Each CSV file must begin with the header row and contain a single holdings table
 
 Installation requirements: This code was written in Jupiter notebook
 
-How to run the script: Please execute each block of the code
+How to run the script: Please execute each block of the code in Jupiter notebook. There is a branch here containing all necessary CSV input files. Please save these files in the same folder as the Jupiter codes.
 
 Example input files are attached in this repository
 
